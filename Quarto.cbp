@@ -34,8 +34,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Case.h" />
 		<Unit filename="include/Pion.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Case.cpp" />
 		<Unit filename="src/Pion.cpp" />
 		<Extensions>
 			<code_completion />
