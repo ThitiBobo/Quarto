@@ -11,7 +11,7 @@ class Case
         bool addPion(Pion);
         bool isEmpty();
         Pion getPion();
-        setPion(Pion);
+        void setPion(Pion);
 
 
 
