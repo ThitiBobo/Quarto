@@ -5,17 +5,21 @@
 class Pion
 {
     public:
-        Pion();
         virtual ~Pion();
         Pion(bool, bool, bool, bool);
+        getCouleur();
+        getTaille();
+        getForme();
+        getTrou();
 
     protected:
 
     private:
         bool couleur;
+        bool taille;
         bool forme;
         bool trou;
-        bool taille;
+
 };
 
 #endif // PION_H

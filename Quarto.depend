@@ -2,10 +2,10 @@
 1514140574 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\main.cpp
 	<iostream>
 
-1551087299 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\pion.cpp
+1551091991 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\pion.cpp
 	"Pion.h"
 
-1551087568 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\pion.h
+1551092142 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\pion.h
 
 1551087808 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\case.cpp
 	"Case.h"
@@ -13,17 +13,10 @@
 1551088129 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\case.h
 	"Pion.h"
 
-1551086546 source:/mnt/storage/Documents/Travails/c++/Quarto/main.cpp
+1551086434 source:c:\users\user\documents\polytech\3a\s6\algo complexit�\projet\quarto\main.cpp
 	<iostream>
 
-1551089187 source:/mnt/storage/Documents/Travails/c++/Quarto/src/Case.cpp
-	"Case.h"
-
-1551091146 /mnt/storage/Documents/Travails/c++/Quarto/include/Case.h
+1551087744 source:c:\users\user\documents\polytech\3a\s6\algo complexit�\projet\quarto\src\pion.cpp
 	"Pion.h"
 
-1551089187 /mnt/storage/Documents/Travails/c++/Quarto/include/Pion.h
-
-1551089187 source:/mnt/storage/Documents/Travails/c++/Quarto/src/Pion.cpp
-	"Pion.h"
-
+1551087744 c:\users\user\documents\polytech\3a\s6\algo complexit�\projet\quarto\include\pion.h
