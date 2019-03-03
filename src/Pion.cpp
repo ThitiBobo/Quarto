@@ -33,4 +33,12 @@ Pion::Surface Pion::getSurface()
     return (Surface)this->surface;
 }
 
+std::ostream& operator<<(std::ostream &strm, const Pion &pion){
+    return strm << "Pion[Couleur = " << pion.couleur
+        << ", Taille = " << pion.taille
+        << ", Forme = " << pion.forme
+        << ", Surface = " << pion.surface
+        << "]";
+}
+
 

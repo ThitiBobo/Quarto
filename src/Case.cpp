@@ -12,7 +12,7 @@ Case::~Case()
 void Case::addPion(Pion *p)
 {
     if (pion != NULL)
-        throw 1; //range_error("La case n'est pas vide!");
+        throw string("Erreur: La case contient déjà une autre instance de Pion");
     pion = p;
 }
 
@@ -24,4 +24,12 @@ Pion* Case::getPion()
 bool Case::isEmpty(){
     return (pion == NULL);
 }
+
+std::ostream& operator<<(std::ostream &strm, const Case &obj){
+    if(obj.pion == NULL)
+        return strm << "Case[Pion = Vide]";
+    else
+        return strm << "Case[Pion = "  << *obj.pion << "]" ;
+}
+
 

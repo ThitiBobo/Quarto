@@ -1,7 +1,8 @@
 #ifndef CASE_H
 #define CASE_H
+#include <ostream>
 #include "Pion.h"
-
+using namespace std;
 
 class Case
 {
@@ -12,6 +13,8 @@ class Case
         void addPion(Pion*);
         bool isEmpty();
         Pion* getPion();
+
+        friend std::ostream& operator<<(std::ostream&, const Case&);
 
     private:
         Pion *pion;
