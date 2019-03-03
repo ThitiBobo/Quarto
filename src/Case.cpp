@@ -1,33 +1,27 @@
 #include "Case.h"
 #include <stdexcept>
 
-Case::Case()
-{
-    vide=true;
+Case::Case(){
 }
 
 Case::~Case()
 {
-    //dtor
+    delete pion;
 }
 
-void Case:: addPion(Pion p)
+void Case::addPion(Pion *p)
 {
-
-       pion = p;
-       vide=false;
-
-
-     throw 1; //range_error("La case n'est pas vide!");
+    if (pion != NULL)
+        throw 1; //range_error("La case n'est pas vide!");
+    pion = p;
 }
 
+Pion* Case::getPion()
+{
+    return pion;
+}
 
-    Pion Case::getPion()
-    {
-        return pion;
-    }
+bool Case::isEmpty(){
+    return (pion == NULL);
+}
 
-    void Case::setPion(Pion pion)
-    {
-        this->pion=pion;
-    }

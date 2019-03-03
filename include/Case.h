@@ -8,18 +8,13 @@ class Case
     public:
         Case();
         virtual ~Case();
-        void addPion(Pion);
+
+        void addPion(Pion*);
         bool isEmpty();
-        Pion getPion();
-        void setPion(Pion);
-
-
-
-    protected:
+        Pion* getPion();
 
     private:
-        Pion pion;
-        bool vide;
+        Pion *pion;
 };
 
 #endif // CASE_H

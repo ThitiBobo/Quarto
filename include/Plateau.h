@@ -17,7 +17,7 @@ class Plateau
     protected:
 
     private:
-        Case* plateau;
+        Case plateau[4][4];
 
 };
 
