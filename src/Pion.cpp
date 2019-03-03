@@ -1,65 +1,36 @@
 #include "Pion.h"
-/*#define "Pion::getCouleur()"
-#define "Pion::getTaille()"
-#define "Pion::getForme()"
-#define "Pion::getTrou()"*/
 
+Pion::Pion(Couleur couleur, Taille taille, Forme forme, Surface surface)
+{
+	this->couleur = couleur;
+	this->taille = taille;
+	this->forme = forme;
+	this->surface = surface;
+}
 
 Pion::~Pion()
 {
     //dtor
 }
 
-Pion::Pion(bool couleur, bool taille, bool forme, bool trou)
+Pion::Couleur Pion::getCouleur()
 {
-	this->couleur = couleur;
-	this->taille = taille;
-	this->forme = forme;
-	this->trou = trou;
+    return (Couleur)this->couleur;
 }
 
-Pion::getCouleur()
+Pion::Taille Pion::getTaille()
 {
-   // bool blue;
-  //if(couleur == blue)
-  if(couleur)
-  {
-    return true;
-  }
-  else return false;
+   return (Taille)this->taille;
 }
 
-Pion::getTaille()
+Pion::Forme Pion::getForme()
 {
-   // bool tall;
-  //if(taille == tall)
-  if (taille)
-  {
-    return true;
-  }
-  else return false;
+    return (Forme)this->forme;
 }
 
-Pion::getForme()
+Pion::Surface Pion::getSurface()
 {
-  //bool circle;
-  //if(forme == circle)
-  if (forme)
-  {
-    return true;
-  }
-  else return false;
-}
-
-Pion::getTrou()
-{
-   // bool trou;
-  //if(trou == trou)
-  if(trou)
-  {
-    return true;
-  }
-  else return false;
+    return (Surface)this->surface;
 }
 
 
