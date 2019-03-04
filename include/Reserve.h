@@ -1,5 +1,8 @@
 #ifndef RESERVE_H
 #define RESERVE_H
+#include <ostream>
+#include "Case.h"
+#include "Pion.h"
 
 
 class Reserve
