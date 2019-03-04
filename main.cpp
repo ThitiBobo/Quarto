@@ -27,8 +27,8 @@ int main()
     cout << endl;
 
     try{
-        myCase->addPion(new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE));
-    }catch(string erreur){
+       // myCase->addPion(new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE));
+    }catch(string const& erreur){
         cout << erreur << endl;
     }
 

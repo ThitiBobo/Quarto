@@ -2,6 +2,7 @@
 #include <stdexcept>
 
 Case::Case(){
+    pion = NULL;
 }
 
 Case::~Case()

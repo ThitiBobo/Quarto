@@ -37,10 +37,12 @@
 		<Unit filename="include/Case.h" />
 		<Unit filename="include/Pion.h" />
 		<Unit filename="include/Plateau.h" />
+		<Unit filename="include/Reserve.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Case.cpp" />
 		<Unit filename="src/Pion.cpp" />
 		<Unit filename="src/Plateau.cpp" />
+		<Unit filename="src/Reserve.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

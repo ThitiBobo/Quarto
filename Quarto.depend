@@ -1,24 +1,29 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\main.cpp
+1551684793 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\main.cpp
 	<iostream>
+	"Case.h"
+	"Pion.h"
+	"Plateau.h"
 
-1551096795 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\case.cpp
+1551686303 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\case.cpp
 	"Case.h"
 	<stdexcept>
 
-1551096795 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\case.h
+1551683586 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\case.h
+	<ostream>
 	"Pion.h"
 
-1551092142 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\pion.h
+1551683586 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\pion.h
+	<ostream>
 
-1551091991 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\pion.cpp
+1551683586 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\pion.cpp
 	"Pion.h"
 
-1551096927 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\plateau.cpp
+1551683586 source:c:\users\myriam\desktop\fichiers codeblocks\quarto\src\plateau.cpp
 	"Plateau.h"
 
-1551096927 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\plateau.h
-	<stdlib.h>
+1551683586 c:\users\myriam\desktop\fichiers codeblocks\quarto\include\plateau.h
+	<ostream>
 	"Case.h"
 	"Pion.h"
 
