@@ -1,33 +1,35 @@
 #include "Case.h"
 #include <stdexcept>
 
-Case::Case()
-{
-    vide=true;
+Case::Case(){
 }
 
 Case::~Case()
 {
-    //dtor
+    delete pion;
 }
 
-void Case:: addPion(Pion p)
+void Case::addPion(Pion *p)
 {
+    if (pion != NULL)
+        throw string("Erreur: La case contient déjà une autre instance de Pion");
+    pion = p;
+}
 
-       pion = p;
-       vide=false;
+Pion* Case::getPion()
+{
+    return pion;
+}
 
+bool Case::isEmpty(){
+    return (pion == NULL);
+}
 
-     throw 1; //range_error("La case n'est pas vide!");
+std::ostream& operator<<(std::ostream &strm, const Case &obj){
+    if(obj.pion == NULL)
+        return strm << "Case[Pion = Vide]";
+    else
+        return strm << "Case[Pion = "  << *obj.pion << "]" ;
 }
 
 
-    Pion Case::getPion()
-    {
-        return pion;
-    }
-
-    void Case::setPion(Pion pion)
-    {
-        this->pion=pion;
-    }

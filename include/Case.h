@@ -1,25 +1,23 @@
 #ifndef CASE_H
 #define CASE_H
+#include <ostream>
 #include "Pion.h"
-
+using namespace std;
 
 class Case
 {
     public:
         Case();
         virtual ~Case();
-        void addPion(Pion);
+
+        void addPion(Pion*);
         bool isEmpty();
-        Pion getPion();
-        void setPion(Pion);
+        Pion* getPion();
 
-
-
-    protected:
+        friend std::ostream& operator<<(std::ostream&, const Case&);
 
     private:
-        Pion pion;
-        bool vide;
+        Pion *pion;
 };
 
 #endif // CASE_H

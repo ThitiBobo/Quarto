@@ -1,11 +1,9 @@
 #ifndef PLATEAU_H
 #define PLATEAU_H
-
-
-#include <stdlib.h>
+#include <ostream>
 #include "Case.h"
 #include "Pion.h"
-
+using namespace std;
 
 class Plateau
 {
@@ -13,11 +11,14 @@ class Plateau
         Plateau();
         virtual ~Plateau();
         const int defaultSize = 4;
+        void addPion(int, int, Pion*);
+        Pion* getPion(int, int);
 
-    protected:
+
+        friend std::ostream& operator<<(std::ostream&, const Plateau&);
 
     private:
-        Case* plateau;
+        Case plateau[4][4];
 
 };
 
