@@ -14,9 +14,8 @@ class Reserve
         friend std::ostream& operator<<(std::ostream&, const Reserve&);
 
 
-
     private:
-        Case plateau[4][4];
+        Case reserve[4][4];
 };
 
 #endif // RESERVE_H
