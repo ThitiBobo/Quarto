@@ -8,18 +8,15 @@ void SFMLPion::setPosition(sf::Vector2f* position){
         position->y + centerPosition->y
         );
     sprite->setPosition(*position);
-
 }
 
-void SFMLPion::setCenterPosition(sf::Vector2f* position){
-    this->centerPosition = position;
-    sf::Vector2f* centerPosition = localCenterPosition();
-    this->position = new sf::Vector2f(
-        position->x - centerPosition->x,
-        position->y - centerPosition->y
-        );
-    sprite->setPosition(*this->position);
-
+void SFMLPion::setCenterPosition(sf::Vector2f* centerPosition){
+    this->centerPosition = centerPosition;
+    this->position = new sf::Vector2f(*centerPosition);
+    sf::Vector2f* centerCoords = localCenterPosition();
+    this->position->x -= centerCoords->x;
+    this->position->y -= centerCoords->y;
+    sprite->setPosition(*position);
 }
 
 void SFMLPion::setRenderWindow(sf::RenderWindow* window){
@@ -44,6 +41,8 @@ SFMLPion::SFMLPion(bool color,bool dimension,bool spec,bool shape,bool soft)
     !soft ? TextureHandler::setSoftV1() : TextureHandler::setSoftV2();
     texture = TextureHandler::getTexturePiece(color,dimension,spec,shape);
     sprite = new sf::Sprite(*texture);
+    texture->setSmooth(true);
+    setPosition(new sf::Vector2f(0,0));
 }
 
 SFMLPion::~SFMLPion()
@@ -51,11 +50,13 @@ SFMLPion::~SFMLPion()
     delete sprite;
     delete texture;
     delete position;
+    delete centerPosition;
     delete window;
 }
 
 void SFMLPion::move(sf::Vector2f* position){
     sprite->move(*position);
+    setPosition(new sf::Vector2f(sprite->getPosition()));
 }
 
 void SFMLPion::draw(){
@@ -63,10 +64,9 @@ void SFMLPion::draw(){
 }
 
 sf::Vector2f* SFMLPion::localCenterPosition(){
-    float x = texture->getSize().x;
-    float y = texture->getSize().y;
-    float diff;
-    float min;
+    int x = texture->getSize().x;
+    int y = texture->getSize().y;
+    int diff;
     x > y ? diff = x - y : diff = y - x;
     if(x > y)
         return new sf::Vector2f(y / 2 + diff, y / 2);

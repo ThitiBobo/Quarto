@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1554380317 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
+1554384166 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
 	<SFML/Graphics.hpp>
 	"SFMLPion.h"
+	"SFMLCase.h"
 
-1551620001 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
+1554380653 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
 	<ostream>
 	"Pion.h"
 
@@ -15,7 +16,7 @@
 	"Case.h"
 	"Pion.h"
 
-1554374968 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Case.cpp
+1554380459 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Case.cpp
 	"Case.h"
 	<stdexcept>
 
@@ -32,9 +33,20 @@
 	<string>
 	<SFML/Graphics.hpp>
 
-1554380234 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLPion.cpp
+1554384283 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLPion.cpp
 	"SFMLPion.h"
 
 1554379515 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLPion.h
 	"TextureHandler.h"
 	<SFML/Graphics.hpp>
+
+1554384123 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
+	"SFMLCase.h"
+	<stdexcept>
+
+1554384333 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLCase.h
+	"TextureHandler.h"
+	"SFMLPion.h"
+	<SFML/Graphics.hpp>
+	<ostream>
+

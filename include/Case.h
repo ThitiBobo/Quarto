@@ -11,6 +11,7 @@ class Case
         virtual ~Case();
 
         void addPion(Pion*);
+        void removePion(Pion*);
         bool isEmpty();
         Pion* getPion();
 
