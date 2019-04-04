@@ -1,55 +1,45 @@
-#include <iostream>
-#include "Case.h"
-#include "Pion.h"
-#include "Plateau.h"
-
-using namespace std;
+#include <SFML/Graphics.hpp>
+#include "SFMLPion.h"
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    Case *myCase;
-    myCase = new Case();
-    bool var = myCase->isEmpty();
-    var? cout << "vide": cout << "plein";
-    cout << endl;
+    sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
+    sf::CircleShape shape(100.f);
+    shape.setFillColor(sf::Color::Green);
 
-    cout << *myCase << endl;
+    while (window.isOpen())
+    {
+        sf::Event event;
+        while (window.pollEvent(event))
+        {
+            if (event.type == sf::Event::Closed)
+                window.close();
+        }
 
-    try{
-        myCase->addPion(new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE));
-    }catch(string const& erreur){
-        cout << "erreur";
+        window.clear();
+
+        sf::Sprite tile;
+        TextureHandler::setSoftV1();
+        tile.setTexture(*TextureHandler::getTextureTileDark());
+        tile.setPosition(sf::Vector2f(50.f, 50.f));
+        window.draw(tile);
+
+        SFMLPion *pion = new SFMLPion(1,1,0,1,1);
+        pion->setRenderWindow(&window);
+        pion->setCenterPosition(new sf::Vector2f(90.f, 90.f));
+        //pion->move(new sf::Vector2f(10.f, 50.f));
+        //pion->draw();
+
+        SFMLPion *pion2 = new SFMLPion(0,1,0,0,1);
+        pion2->setRenderWindow(&window);
+        pion2->setCenterPosition(new sf::Vector2f(pion->getPosition()));
+        //pion->move(new sf::Vector2f(10.f, 50.f));
+        pion2->draw();
+
+        window.display();
+
+
     }
-
-    var = myCase->isEmpty();
-    var? cout << "vide": cout << "plein";
-    cout << endl;
-
-    try{
-        myCase->addPion(new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE));
-    }catch(string erreur){
-        cout << erreur << endl;
-    }
-
-    Pion* p;
-    p = new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE);
-    cout << *p << endl;
-    cout << *myCase << endl;
-
-    delete myCase;
-
-    cout << endl;
-    cout << endl;
-    Plateau* plateau;
-    plateau = new Plateau();
-
-    plateau->addPion(0,0,new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE));
-    plateau->addPion(3,3,new Pion(Pion::ROUGE,Pion::GRAND,Pion::CARRE,Pion::TROUE));
-    cout << *plateau << endl;
-
-
-
 
     return 0;
 }
