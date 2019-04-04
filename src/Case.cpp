@@ -2,6 +2,7 @@
 #include <stdexcept>
 
 Case::Case(){
+    pion = NULL;
 }
 
 Case::~Case()
@@ -19,6 +20,13 @@ void Case::addPion(Pion *p)
 Pion* Case::getPion()
 {
     return pion;
+}
+
+void Case::removePion(Pion *p)
+{
+    if (pion != NULL)
+        throw string("Erreur: La case contient déjà une autre instance de Pion");
+    pion = p;
 }
 
 bool Case::isEmpty(){

@@ -42,12 +42,20 @@
 		<Unit filename="include/Case.h" />
 		<Unit filename="include/Pion.h" />
 		<Unit filename="include/Plateau.h" />
+<<<<<<< HEAD
 		<Unit filename="include/TextureHandler.h" />
+=======
+		<Unit filename="include/Reserve.h" />
+>>>>>>> f805af5493bdcd3e40b24860989fc84593723c4e
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Case.cpp" />
 		<Unit filename="src/Pion.cpp" />
 		<Unit filename="src/Plateau.cpp" />
+<<<<<<< HEAD
 		<Unit filename="src/TextureHandler.cpp" />
+=======
+		<Unit filename="src/Reserve.cpp" />
+>>>>>>> f805af5493bdcd3e40b24860989fc84593723c4e
 		<Extensions>
 			<code_completion />
 			<envvars />
