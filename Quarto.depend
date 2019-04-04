@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1554374678 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
+	<SFML/Graphics.hpp>
+	"TextureHandler.h"
+	<iostream>
+
+1551620001 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
+	<ostream>
+	"Pion.h"
+
+1551619679 /mnt/storage/Documents/Travail/c++/Quarto/include/Pion.h
+	<ostream>
+
+1551693728 /mnt/storage/Documents/Travail/c++/Quarto/include/Plateau.h
+	<ostream>
+	"Case.h"
+	"Pion.h"
+
+1551685590 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Case.cpp
+	"Case.h"
+	<stdexcept>
+
+1551620746 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Pion.cpp
+	"Pion.h"
+
+1554305827 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Plateau.cpp
+	"Plateau.h"
+
+1554374529 source:/mnt/storage/Documents/Travail/c++/Quarto/src/TextureHandler.cpp
+	"TextureHandler.h"
+
+1554374347 /mnt/storage/Documents/Travail/c++/Quarto/include/TextureHandler.h
+	<string>
+	<SFML/Graphics.hpp>
+
