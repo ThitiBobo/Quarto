@@ -76,6 +76,8 @@ void SFMLCase::move(sf::Vector2f* position){
 
 void SFMLCase::draw(){
     this->window->draw(*sprite);
+    if(pion != NULL)
+        this->pion->draw();
 }
 
 void SFMLCase::addPion(SFMLPion* pion){

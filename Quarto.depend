@@ -38,7 +38,7 @@
 	"TextureHandler.h"
 	<SFML/Graphics.hpp>
 
-1554389659 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
+1554412920 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
 	"SFMLCase.h"
 	<stdexcept>
 
@@ -64,4 +64,8 @@
 	"SFMLPion.h"
 	"SFMLCase.h"
 	"SFMLGrid.h"
+
+1554413757 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
+	"SFMLGame.h"
+	<iostream>
 
