@@ -1,13 +1,50 @@
 #include "SFMLGrid.h"
+#include <iostream>
+#include <stdexcept>
 
-SFMLGrid::SFMLGrid(int size)
-{
-    this->size = size;
-    Cases = new vector<SFMLCase>(size * size);
-    for(int i = 0; i < size; i++){
-        for(int j = 0; j < size; j++){
-            Cases[i * size + j] = SFMLCase(0,0);
+int SFMLGrid::distance = 84;
+
+void SFMLGrid::setRenderWindow(sf::RenderWindow* window){
+    this->window = window;
+    for(int i = 0; i < 4; i++){
+        for(int j = 0; j < 4; j++){
+            cases[i][j]->setRenderWindow(window);
         }
+    }
+}
+
+void SFMLGrid::setPosition(sf::Vector2f* position){
+    this->position = position;
+    for(int i = 0; i < 4; i++){
+        for(int j = 0; j < 4; j++){
+            cases[i][j]->setPosition(new sf::Vector2f(position->x + i * distance,position->y + j * distance));
+        }
+    }
+}
+
+SFMLCase* SFMLGrid::getCase(int x, int y){
+    return cases[x][y];
+}
+
+SFMLPion* SFMLGrid::getPion(int x, int y){
+    return cases[x][y]->getPion();
+}
+
+SFMLGrid::SFMLGrid()
+{
+    position = new sf::Vector2f(0,0);
+    cases = new SFMLCase**[4];
+    int type = 0;
+    for(int i = 0; i < 4; i++){
+        cases[i] = new SFMLCase*[4];
+        for(int j = 0; j < 4; j++){
+            type++;
+            type = (type) % 2;
+            cases[i][j] = new SFMLCase(type,0);
+            cases[i][j]->setPosition(new sf::Vector2f(i * distance,j * distance));
+        }
+        type++;
+        type = (type) % 2;
     }
 }
 
@@ -17,9 +54,21 @@ SFMLGrid::~SFMLGrid()
 }
 
 void SFMLGrid::draw(){
-    for(int i = 0; i < size; i++){
-        for(int j = 0; j < size; j++){
-
+    for(int i = 0; i < 4; i++){
+        for(int j = 0; j < 4; j++){
+            cases[i][j]->draw();
         }
     }
+}
+
+void SFMLGrid::addPion(int x,int y,SFMLPion *pion){
+    if(cases[x][y]->getPion() != NULL)
+        throw string("Erreur: La case contient déjà une autre instance de Pion");
+    cases[x][y]->addPion(pion);
+}
+
+SFMLPion* SFMLGrid::removePion(int x,int y){
+    if(cases[x][y]->getPion() == NULL)
+        throw string("Erreur: La case est vide");
+    return cases[x][y]->removePion();
 }

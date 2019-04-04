@@ -9,8 +9,9 @@
 			<Target title="Debug">
 				<Option output="bin/Debug/Quarto" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
-				<Option type="0" />
+				<Option type="1" />
 				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
 				<Compiler>
 					<Add option="-g" />
 					<Add directory="include" />
@@ -42,12 +43,16 @@
 		<Unit filename="include/Case.h" />
 		<Unit filename="include/Pion.h" />
 		<Unit filename="include/Plateau.h" />
+		<Unit filename="include/SFMLCase.h" />
+		<Unit filename="include/SFMLGrid.h" />
 		<Unit filename="include/SFMLPion.h" />
 		<Unit filename="include/TextureHandler.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Case.cpp" />
 		<Unit filename="src/Pion.cpp" />
 		<Unit filename="src/Plateau.cpp" />
+		<Unit filename="src/SFMLCase.cpp" />
+		<Unit filename="src/SFMLGrid.cpp" />
 		<Unit filename="src/SFMLPion.cpp" />
 		<Unit filename="src/TextureHandler.cpp" />
 		<Extensions>
