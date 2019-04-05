@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg1352"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="test.svg">
+  <defs
+     id="defs1346" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="448.14035"
+     inkscape:cy="390.90136"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b29c9c;fill-opacity:1;stroke:none;stroke-width:2.52770996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2236"
+       width="420"
+       height="297"
+       x="0"
+       y="5.6843419e-14" />
+    <circle
+       style="fill:#4d3a3a;fill-opacity:1;stroke:none;stroke-width:2.11860013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7549-7"
+       cx="211.327"
+       cy="143.25728"
+       r="79.447502"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board - bordered.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5"
+       width="25"
+       height="25"
+       x="-393.67194"
+       y="196.13986"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Tile 1.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6"
+       width="25"
+       height="25"
+       x="-368.14276"
+       y="196.13986"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Tile 2.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -290.83549,36.011585 c -2.77,0 -4.99969,2.23021 -4.99969,5.00021 v 9.99991 c 0,2.77 2.22969,5.00021 4.99969,5.00021 h 9.99991 c 2.77,0 5.00021,-2.23021 5.00021,-5.00021 v -9.99991 c 0,-2.77 -2.23021,-5.00021 -5.00021,-5.00021 z m 2.5001,5.00021 h 5.00022 c 1.385,0 2.49959,1.11511 2.49959,2.50011 v 4.9997 c 0,1.385 -1.11459,2.5001 -2.49959,2.5001 h -5.00022 c -1.385,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.1151,-2.50011 2.5001,-2.50011 z"
+       id="rect3713-5-2"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -285.88954,59.824095 a 9.9457351,9.9457351 0 0 0 -9.94615,9.94564 9.9457351,9.9457351 0 0 0 9.94615,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97334,-4.97334 4.9728676,4.9728676 0 0 1 4.97334,-4.97282 z"
+       id="path4520-25-2"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-4-6"
+       width="20"
+       height="20"
+       x="-274.77701"
+       y="36.011681"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-7-1"
+       cx="-264.83145"
+       cy="69.769966"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -248.71868,36.011585 c -2.77,0 -5.00021,2.23021 -5.00021,5.00021 v 9.99991 c 0,2.77 2.23021,5.00021 5.00021,5.00021 h 9.9999 c 2.77,0 5.00021,-2.23021 5.00021,-5.00021 v -9.99991 c 0,-2.77 -2.23021,-5.00021 -5.00021,-5.00021 z m 2.5001,5.00021 h 4.9997 c 1.385,0 2.5001,1.11511 2.5001,2.50011 v 4.9997 c 0,1.385 -1.1151,2.5001 -2.5001,2.5001 h -4.9997 c -1.385,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.1151,-2.50011 2.5001,-2.50011 z"
+       id="rect3713-3-4-0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -243.77325,59.824095 a 9.9457351,9.9457351 0 0 0 -9.94564,9.94564 9.9457351,9.9457351 0 0 0 9.94564,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97282,-4.97334 4.9728676,4.9728676 0 0 1 4.97282,-4.97282 z"
+       id="path4520-56-4-6"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-3-1"
+       width="20"
+       height="20"
+       x="-232.66035"
+       y="36.011681"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-07-5"
+       cx="-222.71478"
+       cy="69.769966"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -289.58544,84.332155 c -2.0775,0 -3.74964,1.67214 -3.74964,3.74964 v 7.50032 c 0,2.0775 1.67214,3.749642 3.74964,3.749642 h 7.50032 c 2.0775,0 3.74964,-1.672142 3.74964,-3.749642 v -7.50032 c 0,-2.0775 -1.67214,-3.74964 -3.74964,-3.74964 z m 1.87534,3.74964 h 3.74964 c 1.03875,0 1.87534,0.83659 1.87534,1.87534 v 3.74964 c 0,1.03875 -0.83659,1.87534 -1.87534,1.87534 h -3.74964 c -1.03875,0 -1.87534,-0.83659 -1.87534,-1.87534 v -3.74964 c 0,-1.03875 0.83659,-1.87534 1.87534,-1.87534 z"
+       id="rect3713-1-8-9"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -285.88954,106.5432 a 7.4593013,7.4592691 0 0 0 -7.45949,7.45951 7.4593013,7.4592691 0 0 0 7.45949,7.4595 7.4593013,7.4592691 0 0 0 7.45898,-7.4595 7.4593013,7.4592691 0 0 0 -7.45898,-7.45951 z m 0,3.73001 a 3.7296511,3.7296344 0 0 1 3.72949,3.7295 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.7295 z"
+       id="path4520-2-6-4"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTR.png" />
+    <rect
+       id="rect3713-7-7-8-9"
+       width="15"
+       height="14.999936"
+       x="-272.27701"
+       y="84.332024"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-0-8-0"
+       cx="-264.83145"
+       cy="114.00269"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -247.46863,84.332155 c -2.0775,0 -3.75016,1.67214 -3.75016,3.74964 v 7.50032 c 0,2.0775 1.67266,3.749642 3.75016,3.749642 h 7.4998 c 2.0775,0 3.75016,-1.672142 3.75016,-3.749642 v -7.50032 c 0,-2.0775 -1.67266,-3.74964 -3.75016,-3.74964 z m 1.87482,3.74964 h 3.75016 c 1.03875,0 1.87482,0.83659 1.87482,1.87534 v 3.74964 c 0,1.03875 -0.83607,1.87534 -1.87482,1.87534 h -3.75016 c -1.03875,0 -1.87482,-0.83659 -1.87482,-1.87534 v -3.74964 c 0,-1.03875 0.83607,-1.87534 1.87482,-1.87534 z"
+       id="rect3713-3-9-4-9"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -243.77325,106.5432 a 7.4593011,7.4592691 0 0 0 -7.45898,7.45951 7.4593011,7.4592691 0 0 0 7.45898,7.4595 7.4593011,7.4592691 0 0 0 7.45949,-7.4595 7.4593011,7.4592691 0 0 0 -7.45949,-7.45951 z m 0,3.73001 a 3.7296505,3.7296344 0 0 1 3.73001,3.7295 3.7296505,3.7296344 0 0 1 -3.73001,3.72949 3.7296505,3.7296344 0 0 1 -3.72949,-3.72949 3.7296505,3.7296344 0 0 1 3.72949,-3.7295 z"
+       id="path4520-56-3-3-1"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-6-1-7"
+       width="15"
+       height="14.999936"
+       x="-230.16034"
+       y="84.332024"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-0-4-7"
+       cx="-222.71478"
+       cy="114.00269"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -387.7099,32.508525 c -2.77,0 -4.99969,2.23022 -4.99969,5.00022 v 9.9999 c 0,2.77 2.22969,5.00021 4.99969,5.00021 h 9.99991 c 2.77,0 5.00021,-2.23021 5.00021,-5.00021 v -9.9999 c 0,-2.77 -2.23021,-5.00022 -5.00021,-5.00022 z m 2.50011,5.00022 h 5.00021 c 1.385,0 2.49959,1.1151 2.49959,2.5001 v 4.9997 c 0,1.385 -1.11459,2.5001 -2.49959,2.5001 h -5.00021 c -1.385,0 -2.50011,-1.1151 -2.50011,-2.5001 v -4.9997 c 0,-1.385 1.11511,-2.5001 2.50011,-2.5001 z"
+       id="rect3713"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="81.279999"
+       inkscape:export-ydpi="81.279999" />
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -382.76395,53.675195 a 9.9457349,9.9457349 0 0 0 -9.94616,9.94565 9.9457349,9.9457349 0 0 0 9.94616,9.94616 9.9457349,9.9457349 0 0 0 9.94565,-9.94616 9.9457349,9.9457349 0 0 0 -9.94565,-9.94565 z m 0,4.97283 a 4.9728676,4.9728676 0 0 1 4.97283,4.97282 4.9728676,4.9728676 0 0 1 -4.97283,4.97334 4.9728676,4.9728676 0 0 1 -4.97333,-4.97334 4.9728676,4.9728676 0 0 1 4.97333,-4.97282 z"
+       id="path4520"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7"
+       width="20"
+       height="20"
+       x="-371.65143"
+       y="32.508614"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RGPC.png"
+       inkscape:export-xdpi="81.279999"
+       inkscape:export-ydpi="81.279999" />
+    <circle
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5"
+       cx="-361.70587"
+       cy="63.621082"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -345.59309,32.508525 c -2.77,0 -5.00021,2.23022 -5.00021,5.00022 v 9.9999 c 0,2.77 2.23021,5.00021 5.00021,5.00021 h 9.99991 c 2.77,0 5.00021,-2.23021 5.00021,-5.00021 v -9.9999 c 0,-2.77 -2.23021,-5.00022 -5.00021,-5.00022 z m 2.50011,5.00022 h 4.99969 c 1.385,0 2.50011,1.1151 2.50011,2.5001 v 4.9997 c 0,1.385 -1.11511,2.5001 -2.50011,2.5001 h -4.99969 c -1.385,0 -2.50011,-1.1151 -2.50011,-2.5001 v -4.9997 c 0,-1.385 1.11511,-2.5001 2.50011,-2.5001 z"
+       id="rect3713-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BGTC.png"
+       inkscape:export-xdpi="81.279999"
+       inkscape:export-ydpi="81.279999" />
+    <path
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -340.64765,53.675195 a 9.9457349,9.9457349 0 0 0 -9.94565,9.94565 9.9457349,9.9457349 0 0 0 9.94565,9.94616 9.9457349,9.9457349 0 0 0 9.94564,-9.94616 9.9457349,9.9457349 0 0 0 -9.94564,-9.94565 z m 0,4.97283 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97282,-4.97334 4.9728676,4.9728676 0 0 1 4.97282,-4.97282 z"
+       id="path4520-56"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2"
+       width="20"
+       height="20"
+       x="-329.53476"
+       y="32.508614"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BGPC.png"
+       inkscape:export-xdpi="81.279999"
+       inkscape:export-ydpi="81.279999" />
+    <circle
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9"
+       cx="-319.5892"
+       cy="63.621082"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -386.45984,77.124925 c -2.0775,0 -3.74964,1.67215 -3.74964,3.74965 v 7.50031 c 0,2.0775 1.67214,3.74965 3.74964,3.74965 h 7.50031 c 2.0775,0 3.74965,-1.67215 3.74965,-3.74965 v -7.50031 c 0,-2.0775 -1.67215,-3.74965 -3.74965,-3.74965 z m 1.87534,3.74965 h 3.74964 c 1.03875,0 1.87533,0.83658 1.87533,1.87533 v 3.74964 c 0,1.03876 -0.83658,1.87534 -1.87533,1.87534 h -3.74964 c -1.03876,0 -1.87534,-0.83658 -1.87534,-1.87534 v -3.74964 c 0,-1.03875 0.83658,-1.87533 1.87534,-1.87533 z"
+       id="rect3713-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -382.76395,98.277645 a 7.4593013,7.4592691 0 0 0 -7.45949,7.459495 7.4593013,7.4592691 0 0 0 7.45949,7.45949 7.4593013,7.4592691 0 0 0 7.45898,-7.45949 7.4593013,7.4592691 0 0 0 -7.45898,-7.459495 z m 0,3.730005 a 3.7296511,3.7296344 0 0 1 3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.72949 z"
+       id="path4520-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RPTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-7"
+       width="15"
+       height="14.999936"
+       x="-369.15143"
+       y="77.124794"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-0"
+       cx="-361.70587"
+       cy="105.73711"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-RPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -344.34303,77.124925 c -2.0775,0 -3.75016,1.67215 -3.75016,3.74965 v 7.50031 c 0,2.0775 1.67266,3.74965 3.75016,3.74965 h 7.4998 c 2.0775,0 3.75015,-1.67215 3.75015,-3.74965 v -7.50031 c 0,-2.0775 -1.67265,-3.74965 -3.75015,-3.74965 z m 1.87482,3.74965 h 3.75016 c 1.03874,0 1.87482,0.83658 1.87482,1.87533 v 3.74964 c 0,1.03876 -0.83608,1.87534 -1.87482,1.87534 h -3.75016 c -1.03875,0 -1.87482,-0.83658 -1.87482,-1.87534 v -3.74964 c 0,-1.03875 0.83607,-1.87533 1.87482,-1.87533 z"
+       id="rect3713-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -340.64765,98.277645 a 7.4593011,7.4592691 0 0 0 -7.45898,7.459495 7.4593011,7.4592691 0 0 0 7.45898,7.45949 7.4593011,7.4592691 0 0 0 7.45949,-7.45949 7.4593011,7.4592691 0 0 0 -7.45949,-7.459495 z m 0,3.730005 a 3.7296505,3.7296344 0 0 1 3.73,3.72949 3.7296505,3.7296344 0 0 1 -3.73,3.72949 3.7296505,3.7296344 0 0 1 -3.72949,-3.72949 3.7296505,3.7296344 0 0 1 3.72949,-3.72949 z"
+       id="path4520-56-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BPTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-6"
+       width="15"
+       height="14.999936"
+       x="-327.03476"
+       y="77.124794"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-0"
+       cx="-319.5892"
+       cy="105.73711"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/piece-BPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -290.83549,33.011595 c -2.77,0 -4.99969,2.23021 -4.99969,5.00021 v 9.9999 c 0,2.77001 2.22969,5.00022 4.99969,5.00022 h 9.99991 c 2.77,0 5.00021,-2.23021 5.00021,-5.00022 v -9.9999 c 0,-2.77 -2.23021,-5.00021 -5.00021,-5.00021 z m 2.5001,5.00021 h 5.00022 c 1.385,0 2.49959,1.1151 2.49959,2.5001 v 4.9997 c 0,1.385 -1.11459,2.5001 -2.49959,2.5001 h -5.00022 c -1.385,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.1151,-2.5001 2.5001,-2.5001 z"
+       id="rect3713-5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -285.88954,56.824095 a 9.9457351,9.9457351 0 0 0 -9.94615,9.94564 9.9457351,9.9457351 0 0 0 9.94615,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97334,-4.97334 4.9728676,4.9728676 0 0 1 4.97334,-4.97282 z"
+       id="path4520-25"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-4"
+       width="20"
+       height="20"
+       x="-274.77701"
+       y="33.011681"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-7"
+       cx="-264.83145"
+       cy="66.769981"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -248.71868,33.011595 c -2.77,0 -5.00021,2.23021 -5.00021,5.00021 v 9.9999 c 0,2.77001 2.23021,5.00022 5.00021,5.00022 h 9.9999 c 2.77,0 5.00021,-2.23021 5.00021,-5.00022 v -9.9999 c 0,-2.77 -2.23021,-5.00021 -5.00021,-5.00021 z m 2.5001,5.00021 h 4.9997 c 1.385,0 2.5001,1.1151 2.5001,2.5001 v 4.9997 c 0,1.385 -1.1151,2.5001 -2.5001,2.5001 h -4.9997 c -1.385,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.1151,-2.5001 2.5001,-2.5001 z"
+       id="rect3713-3-4"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -243.77325,56.824095 a 9.9457351,9.9457351 0 0 0 -9.94564,9.94564 9.9457351,9.9457351 0 0 0 9.94564,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97282,-4.97334 4.9728676,4.9728676 0 0 1 4.97282,-4.97282 z"
+       id="path4520-56-4"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-3"
+       width="20"
+       height="20"
+       x="-232.66035"
+       y="33.011681"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-07"
+       cx="-222.71478"
+       cy="66.769981"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -289.58544,81.332155 c -2.0775,0 -3.74964,1.67215 -3.74964,3.74965 v 7.50031 c 0,2.0775 1.67214,3.74964 3.74964,3.74964 h 7.50032 c 2.0775,0 3.74964,-1.67214 3.74964,-3.74964 v -7.50031 c 0,-2.0775 -1.67214,-3.74965 -3.74964,-3.74965 z m 1.87534,3.74965 h 3.74964 c 1.03875,0 1.87534,0.83658 1.87534,1.87533 v 3.74964 c 0,1.03876 -0.83659,1.87534 -1.87534,1.87534 h -3.74964 c -1.03875,0 -1.87534,-0.83658 -1.87534,-1.87534 v -3.74964 c 0,-1.03875 0.83659,-1.87533 1.87534,-1.87533 z"
+       id="rect3713-1-8"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -285.88954,103.54321 a 7.4593013,7.4592691 0 0 0 -7.45949,7.4595 7.4593013,7.4592691 0 0 0 7.45949,7.45949 7.4593013,7.4592691 0 0 0 7.45898,-7.45949 7.4593013,7.4592691 0 0 0 -7.45898,-7.4595 z m 0,3.73001 a 3.7296511,3.7296344 0 0 1 3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.72949 z"
+       id="path4520-2-6"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTR.png" />
+    <rect
+       id="rect3713-7-7-8"
+       width="15"
+       height="14.999936"
+       x="-272.27701"
+       y="81.332024"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-0-8"
+       cx="-264.83145"
+       cy="111.00268"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -247.46863,81.332155 c -2.0775,0 -3.75016,1.67215 -3.75016,3.74965 v 7.50031 c 0,2.0775 1.67266,3.74964 3.75016,3.74964 h 7.4998 c 2.0775,0 3.75016,-1.67214 3.75016,-3.74964 v -7.50031 c 0,-2.0775 -1.67266,-3.74965 -3.75016,-3.74965 z m 1.87482,3.74965 h 3.75016 c 1.03875,0 1.87482,0.83658 1.87482,1.87533 v 3.74964 c 0,1.03876 -0.83607,1.87534 -1.87482,1.87534 h -3.75016 c -1.03875,0 -1.87482,-0.83658 -1.87482,-1.87534 v -3.74964 c 0,-1.03875 0.83607,-1.87533 1.87482,-1.87533 z"
+       id="rect3713-3-9-4"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -243.77325,103.54321 a 7.4593011,7.4592691 0 0 0 -7.45898,7.4595 7.4593011,7.4592691 0 0 0 7.45898,7.45949 7.4593011,7.4592691 0 0 0 7.45949,-7.45949 7.4593011,7.4592691 0 0 0 -7.45949,-7.4595 z m 0,3.73001 a 3.7296505,3.7296344 0 0 1 3.73001,3.72949 3.7296505,3.7296344 0 0 1 -3.73001,3.72949 3.7296505,3.7296344 0 0 1 -3.72949,-3.72949 3.7296505,3.7296344 0 0 1 3.72949,-3.72949 z"
+       id="path4520-56-3-3"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-6-1"
+       width="15"
+       height="14.999936"
+       x="-230.16034"
+       y="81.332024"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-0-4"
+       cx="-222.71478"
+       cy="111.00268"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263"
+       width="25"
+       height="25"
+       x="-393.13742"
+       y="136.95003"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Tile 1.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7"
+       width="25"
+       height="25"
+       x="-367.60825"
+       y="136.95003"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Tile 2.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73"
+       width="25"
+       height="25"
+       x="-393.67194"
+       y="193.13989"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Tile 1.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6"
+       width="25"
+       height="25"
+       x="-368.14276"
+       y="193.13989"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Tile 2.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-1"
+       width="25"
+       height="25"
+       x="342.60825"
+       y="-187.47919"
+       rx="4.756"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-2"
+       width="25"
+       height="25"
+       x="368.13742"
+       y="-187.47919"
+       rx="4.756"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-9"
+       width="25"
+       height="25"
+       x="-393.67194"
+       y="226.43146"
+       rx="4.756" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-3"
+       width="25"
+       height="25"
+       x="-368.14276"
+       y="226.43146"
+       rx="4.756" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-9"
+       width="25"
+       height="25"
+       x="-393.67194"
+       y="223.43149"
+       rx="4.756" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-0"
+       width="25"
+       height="25"
+       x="-368.14276"
+       y="223.43149"
+       rx="4.756" />
+    <circle
+       style="fill:#644b4b;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7549"
+       cx="211.32671"
+       cy="139.02374"
+       r="75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board - bordered.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-8"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="197.74771"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-5"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="197.74771"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-97"
+       width="25"
+       height="25"
+       x="159.81776"
+       y="88.771484"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-5"
+       width="25"
+       height="25"
+       x="185.34697"
+       y="88.771484"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-3"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="194.74768"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-8"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="194.74768"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-1-83"
+       width="25"
+       height="25"
+       x="-210.34698"
+       y="-139.30067"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-2-1"
+       width="25"
+       height="25"
+       x="-184.81779"
+       y="-139.30067"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-9-8"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="223.80606"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-3-9"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="223.80606"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-9-6"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="220.80603"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-0-43"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="220.80603"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-8"
+       width="25"
+       height="25"
+       x="210.87613"
+       y="88.771484"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-8"
+       width="25"
+       height="25"
+       x="236.40533"
+       y="88.771484"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-1-5"
+       width="25"
+       height="25"
+       x="-261.40533"
+       y="-139.30064"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-2-0"
+       width="25"
+       height="25"
+       x="-235.87616"
+       y="-139.30064"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-9"
+       width="25"
+       height="25"
+       x="159.81783"
+       y="139.8298"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-63"
+       width="25"
+       height="25"
+       x="185.347"
+       y="139.8298"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-1-8"
+       width="25"
+       height="25"
+       x="-210.347"
+       y="-190.35899"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-2-5"
+       width="25"
+       height="25"
+       x="-184.81786"
+       y="-190.35899"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-8-6"
+       width="25"
+       height="25"
+       x="210.87624"
+       y="139.8298"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-8-1"
+       width="25"
+       height="25"
+       x="236.40533"
+       y="139.8298"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-1-5-1"
+       width="25"
+       height="25"
+       x="-261.40536"
+       y="-190.35898"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-2-0-5"
+       width="25"
+       height="25"
+       x="-235.87619"
+       y="-190.35898"
+       rx="4.756"
+       transform="scale(-1)"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v1/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-98"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="197.74771"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-4"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="197.74771"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-8"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="194.74768"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-1"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="194.74768"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-9-0"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="223.80606"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-3-3"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="223.80606"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-9-0"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="220.80603"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-0-4"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="220.80603"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-4"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="249.86435"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-44"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="249.86435"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-7"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="246.86432"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-63"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="246.86432"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-9-1"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="275.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-3-7"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="275.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-9-5"
+       width="25"
+       height="25"
+       x="-159.76567"
+       y="272.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-0-9"
+       width="25"
+       height="25"
+       x="-134.23647"
+       y="272.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-98-6"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="249.86435"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-4-2"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="249.86435"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-8-1"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="246.86432"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-1-7"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="246.86432"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-5-9-0-8"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="275.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-6-3-3-5"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="275.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#946e6e;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-73-9-0-7"
+       width="25"
+       height="25"
+       x="-108.70729"
+       y="272.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       style="fill:#a38989;fill-opacity:1;stroke:none;stroke-width:0.71157181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7263-7-6-0-4-4"
+       width="25"
+       height="25"
+       x="-83.178177"
+       y="272.9227"
+       rx="4.756"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/Board.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 298.56852,98.085664 c -2.77,0 -4.99969,2.230206 -4.99969,5.000206 v 9.99991 c 0,2.77 2.22969,5.00021 4.99969,5.00021 h 9.99991 c 2.77,0 5.00021,-2.23021 5.00021,-5.00021 v -9.99991 c 0,-2.77 -2.23021,-5.000206 -5.00021,-5.000206 z m 2.5001,5.000206 h 5.00022 c 1.385,0 2.49959,1.11511 2.49959,2.50011 v 4.9997 c 0,1.385 -1.11459,2.5001 -2.49959,2.5001 h -5.00022 c -1.385,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.1151,-2.50011 2.5001,-2.50011 z"
+       id="rect3713-5-2-6"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 303.51447,121.89817 a 9.9457351,9.9457351 0 0 0 -9.94615,9.94564 9.9457351,9.9457351 0 0 0 9.94615,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97334,-4.97334 4.9728676,4.9728676 0 0 1 4.97334,-4.97282 z"
+       id="path4520-25-2-7"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-4-6-5"
+       width="20"
+       height="20"
+       x="314.62701"
+       y="98.085754"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-7-1-3"
+       cx="324.57257"
+       cy="131.84404"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.331909,98.085664 c -2.77,0 -5.00021,2.230206 -5.00021,5.000206 v 9.99991 c 0,2.77 2.23021,5.00021 5.00021,5.00021 h 9.999901 c 2.77,0 5.00021,-2.23021 5.00021,-5.00021 v -9.99991 c 0,-2.77 -2.23021,-5.000206 -5.00021,-5.000206 z m 2.5001,5.000206 h 4.999691 c 1.38501,0 2.50011,1.11511 2.50011,2.50011 v 4.9997 c 0,1.385 -1.1151,2.5001 -2.50011,2.5001 h -4.999691 c -1.38501,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.11509,-2.50011 2.5001,-2.50011 z"
+       id="rect3713-3-4-0-5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.27734,121.89817 a 9.9457351,9.9457351 0 0 0 -9.945641,9.94564 9.9457351,9.9457351 0 0 0 9.945641,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.972821,-4.97334 4.9728676,4.9728676 0 0 1 4.972821,-4.97282 z"
+       id="path4520-56-4-6-6"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-3-1-2"
+       width="20"
+       height="20"
+       x="111.39022"
+       y="98.085754"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-07-5-9"
+       cx="121.3358"
+       cy="131.84404"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.81857,146.40623 c -2.0775,0 -3.74964,1.67214 -3.74964,3.74964 v 7.50032 c 0,2.0775 1.67214,3.74964 3.74964,3.74964 h 7.50032 c 2.0775,0 3.74964,-1.67214 3.74964,-3.74964 v -7.50032 c 0,-2.0775 -1.67214,-3.74964 -3.74964,-3.74964 z m 1.87534,3.74964 h 3.74964 c 1.03875,0 1.87534,0.83659 1.87534,1.87534 v 3.74964 c 0,1.03875 -0.83659,1.87534 -1.87534,1.87534 h -3.74964 c -1.03875,0 -1.87534,-0.83659 -1.87534,-1.87534 v -3.74964 c 0,-1.03875 0.83659,-1.87534 1.87534,-1.87534 z"
+       id="rect3713-1-8-9-1"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 303.51447,168.61727 a 7.4593013,7.4592691 0 0 0 -7.45949,7.45951 7.4593013,7.4592691 0 0 0 7.45949,7.4595 7.4593013,7.4592691 0 0 0 7.45898,-7.4595 7.4593013,7.4592691 0 0 0 -7.45898,-7.45951 z m 0,3.73001 a 3.7296511,3.7296344 0 0 1 3.72949,3.7295 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.7295 z"
+       id="path4520-2-6-4-2"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTR.png" />
+    <rect
+       id="rect3713-7-7-8-9-7"
+       width="15"
+       height="14.999936"
+       x="317.12701"
+       y="146.4061"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-0-8-0-0"
+       cx="324.57257"
+       cy="176.07677"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.581959,146.40623 c -2.0775,0 -3.75016,1.67214 -3.75016,3.74964 v 7.50032 c 0,2.0775 1.67266,3.74964 3.75016,3.74964 h 7.499801 c 2.0775,0 3.75015,-1.67214 3.75015,-3.74964 v -7.50032 c 0,-2.0775 -1.67265,-3.74964 -3.75015,-3.74964 z m 1.87481,3.74964 h 3.750171 c 1.03875,0 1.87482,0.83659 1.87482,1.87534 v 3.74964 c 0,1.03875 -0.83607,1.87534 -1.87482,1.87534 h -3.750171 c -1.03874,0 -1.87481,-0.83659 -1.87481,-1.87534 v -3.74964 c 0,-1.03875 0.83607,-1.87534 1.87481,-1.87534 z"
+       id="rect3713-3-9-4-9-9"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.27734,168.61727 a 7.4593011,7.4592691 0 0 0 -7.458981,7.45951 7.4593011,7.4592691 0 0 0 7.458981,7.4595 7.4593011,7.4592691 0 0 0 7.45949,-7.4595 7.4593011,7.4592691 0 0 0 -7.45949,-7.45951 z m 0,3.73001 a 3.7296505,3.7296344 0 0 1 3.73,3.7295 3.7296505,3.7296344 0 0 1 -3.73,3.72949 3.7296505,3.7296344 0 0 1 -3.729491,-3.72949 3.7296505,3.7296344 0 0 1 3.729491,-3.7295 z"
+       id="path4520-56-3-3-1-3"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-6-1-7-6"
+       width="15"
+       height="14.999936"
+       x="113.89024"
+       y="146.4061"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-0-4-7-0"
+       cx="121.3358"
+       cy="176.07677"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 298.56852,95.085674 c -2.77,0 -4.99969,2.23021 -4.99969,5.000206 v 9.9999 c 0,2.77001 2.22969,5.00022 4.99969,5.00022 h 9.99991 c 2.77,0 5.00021,-2.23021 5.00021,-5.00022 v -9.9999 c 0,-2.769996 -2.23021,-5.000206 -5.00021,-5.000206 z m 2.5001,5.000206 h 5.00022 c 1.385,0 2.49959,1.1151 2.49959,2.5001 v 4.9997 c 0,1.385 -1.11459,2.5001 -2.49959,2.5001 h -5.00022 c -1.385,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.1151,-2.5001 2.5001,-2.5001 z"
+       id="rect3713-5-6"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 303.51447,118.89817 a 9.9457351,9.9457351 0 0 0 -9.94615,9.94564 9.9457351,9.9457351 0 0 0 9.94615,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.97334,-4.97334 4.9728676,4.9728676 0 0 1 4.97334,-4.97282 z"
+       id="path4520-25-26"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-4-1"
+       width="20"
+       height="20"
+       x="314.62701"
+       y="95.085754"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-7-8"
+       cx="324.57257"
+       cy="128.84406"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.331909,95.085674 c -2.77,0 -5.00021,2.23021 -5.00021,5.000206 v 9.9999 c 0,2.77001 2.23021,5.00022 5.00021,5.00022 h 9.999901 c 2.77,0 5.00021,-2.23021 5.00021,-5.00022 v -9.9999 c 0,-2.769996 -2.23021,-5.000206 -5.00021,-5.000206 z m 2.5001,5.000206 h 4.999691 c 1.38501,0 2.50011,1.1151 2.50011,2.5001 v 4.9997 c 0,1.385 -1.1151,2.5001 -2.50011,2.5001 h -4.999691 c -1.38501,0 -2.5001,-1.1151 -2.5001,-2.5001 v -4.9997 c 0,-1.385 1.11509,-2.5001 2.5001,-2.5001 z"
+       id="rect3713-3-4-7"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.27734,118.89817 a 9.9457351,9.9457351 0 0 0 -9.945641,9.94564 9.9457351,9.9457351 0 0 0 9.945641,9.94617 9.9457351,9.9457351 0 0 0 9.94565,-9.94617 9.9457351,9.9457351 0 0 0 -9.94565,-9.94564 z m 0,4.97282 a 4.9728676,4.9728676 0 0 1 4.97282,4.97282 4.9728676,4.9728676 0 0 1 -4.97282,4.97334 4.9728676,4.9728676 0 0 1 -4.972821,-4.97334 4.9728676,4.9728676 0 0 1 4.972821,-4.97282 z"
+       id="path4520-56-4-9"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-3-2"
+       width="20"
+       height="20"
+       x="111.39022"
+       y="95.085754"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <circle
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1085308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-07-0"
+       cx="121.3358"
+       cy="128.84406"
+       r="9.945735"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.81857,143.40623 c -2.0775,0 -3.74964,1.67215 -3.74964,3.74965 v 7.50031 c 0,2.0775 1.67214,3.74964 3.74964,3.74964 h 7.50032 c 2.0775,0 3.74964,-1.67214 3.74964,-3.74964 v -7.50031 c 0,-2.0775 -1.67214,-3.74965 -3.74964,-3.74965 z m 1.87534,3.74965 h 3.74964 c 1.03875,0 1.87534,0.83658 1.87534,1.87533 v 3.74964 c 0,1.03876 -0.83659,1.87534 -1.87534,1.87534 h -3.74964 c -1.03875,0 -1.87534,-0.83658 -1.87534,-1.87534 v -3.74964 c 0,-1.03875 0.83659,-1.87533 1.87534,-1.87533 z"
+       id="rect3713-1-8-2"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 303.51447,165.61728 a 7.4593013,7.4592691 0 0 0 -7.45949,7.4595 7.4593013,7.4592691 0 0 0 7.45949,7.45949 7.4593013,7.4592691 0 0 0 7.45898,-7.45949 7.4593013,7.4592691 0 0 0 -7.45898,-7.4595 z m 0,3.73001 a 3.7296511,3.7296344 0 0 1 3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.72949 z"
+       id="path4520-2-6-3"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTR.png" />
+    <rect
+       id="rect3713-7-7-8-7"
+       width="15"
+       height="14.999936"
+       x="317.12701"
+       y="143.4061"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-0-8-5"
+       cx="324.57257"
+       cy="173.07675"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.581959,143.40623 c -2.0775,0 -3.75016,1.67215 -3.75016,3.74965 v 7.50031 c 0,2.0775 1.67266,3.74964 3.75016,3.74964 h 7.499801 c 2.0775,0 3.75015,-1.67214 3.75015,-3.74964 v -7.50031 c 0,-2.0775 -1.67265,-3.74965 -3.75015,-3.74965 z m 1.87481,3.74965 h 3.750171 c 1.03875,0 1.87482,0.83658 1.87482,1.87533 v 3.74964 c 0,1.03876 -0.83607,1.87534 -1.87482,1.87534 h -3.750171 c -1.03874,0 -1.87481,-0.83658 -1.87481,-1.87534 v -3.74964 c 0,-1.03875 0.83607,-1.87533 1.87481,-1.87533 z"
+       id="rect3713-3-9-4-92"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.27734,165.61728 a 7.4593011,7.4592691 0 0 0 -7.458981,7.4595 7.4593011,7.4592691 0 0 0 7.458981,7.45949 7.4593011,7.4592691 0 0 0 7.45949,-7.45949 7.4593011,7.4592691 0 0 0 -7.45949,-7.4595 z m 0,3.73001 a 3.7296505,3.7296344 0 0 1 3.73,3.72949 3.7296505,3.7296344 0 0 1 -3.73,3.72949 3.7296505,3.7296344 0 0 1 -3.729491,-3.72949 3.7296505,3.7296344 0 0 1 3.729491,-3.72949 z"
+       id="path4520-56-3-3-2"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPTR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-6-1-8"
+       width="15"
+       height="14.999936"
+       x="113.89024"
+       y="143.4061"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.07499985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="3.75"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <ellipse
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4520-5-9-0-4-9"
+       cx="121.3358"
+       cy="173.07675"
+       rx="7.459301"
+       ry="7.459269"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BPPR.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <g
+       id="g4520">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-6"
+         d="m -206.33827,36.24653 a 2.75,2.75 0 0 0 -2.75022,2.749703 2.75,2.75 0 0 0 2.75022,2.75022 2.75,2.75 0 0 0 2.75021,-2.75022 2.75,2.75 0 0 0 -2.75021,-2.749703 z m 0.0227,1.775603 a 0.96187502,0.96187502 0 0 1 0.96222,0.962215 0.96187502,0.96187502 0 0 1 -0.96222,0.961697 0.96187502,0.96187502 0 0 1 -0.9617,-0.961697 0.96187502,0.96187502 0 0 1 0.9617,-0.962215 z"
+         style="fill:#c59d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81447315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449"
+         d="m -206.33827,36.204154 a 2.5,2.5 0 0 0 -2.50011,2.500106 2.5,2.5 0 0 0 2.50011,2.500106 2.5,2.5 0 0 0 2.5001,-2.500106 2.5,2.5 0 0 0 -2.5001,-2.500106 z m 0,1.250053 a 1.25,1.25 0 0 1 1.25005,1.250053 1.25,1.25 0 0 1 -1.25005,1.250053 1.25,1.25 0 0 1 -1.25006,-1.250053 1.25,1.25 0 0 1 1.25006,-1.250053 z"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64952099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -171.88467,21.26636 c -0.36021,-0.20235 -0.737,-0.35906 -1.13393,-0.47247 -0.12487,-0.03568 -0.24911,-0.07839 -0.37797,-0.09449 -0.12503,-0.01563 -0.25326,0.01782 -0.37798,0 -0.0986,-0.01409 -0.18488,-0.08041 -0.28348,-0.09449 -0.12473,-0.01782 -0.25199,0 -0.37798,0 -0.12599,0 -0.25199,0 -0.37798,0 -0.15748,0 -0.31498,0 -0.47247,0 -0.0945,0 -0.18994,-0.01336 -0.28348,0 -0.12856,0.01837 -0.24987,0.07314 -0.37797,0.09449 -0.12428,0.02071 -0.25444,-0.02471 -0.37798,0 -0.0977,0.01953 -0.18581,0.07496 -0.28348,0.09449 -0.0618,0.01235 -0.12722,-0.01235 -0.18899,0 -0.0977,0.01953 -0.18899,0.063 -0.28348,0.09449 -0.0945,0.0315 -0.19807,0.04325 -0.28348,0.09449 -0.0764,0.04584 -0.11943,0.133334 -0.18899,0.188988 -0.11048,0.171484 -0.32554,0.173284 -0.47247,0.283482 -0.0599,0.0449 -0.52207,0.507099 -0.56697,0.566964 -0.0423,0.05635 -0.063,0.125992 -0.0945,0.188988 -0.0315,0.063 -0.063,0.125993 -0.0945,0.188989 -0.10622,0.212451 -0.23623,0.425218 -0.28348,0.661458 -0.0124,0.06177 0.0153,0.127873 0,0.188988 -0.0171,0.06833 -0.0774,0.120659 -0.0945,0.188988 -0.0153,0.06112 0.0123,0.127215 0,0.188988 0.0217,0.189757 -0.14785,0.307913 -0.18899,0.47247 -0.0153,0.06112 0.0153,0.127873 0,0.188988 -0.0342,0.136658 -0.16136,0.239849 -0.18899,0.377977 -0.0185,0.09266 0,0.188988 0,0.283482 0,0.0315 0.01,0.06461 0,0.09449 -0.0223,0.06682 -0.0807,0.119924 -0.0945,0.188988 -0.0185,0.09266 0,0.188988 0,0.283482 0,0.063 -0.0124,0.127215 0,0.188988 0.0195,0.09767 0.0781,0.185232 0.0945,0.283482 0.0155,0.09321 0,0.188988 0,0.283482 0.0315,0.0945 0.075,0.18581 0.0945,0.283481 0.0124,0.06178 -0.0234,0.130498 0,0.18899 0.0422,0.105444 0.13056,0.1861 0.18899,0.283482 0.0362,0.06039 0.0683,0.123595 0.0945,0.188987 0.037,0.09248 0.0433,0.198072 0.0945,0.283482 0.0458,0.0764 0.14315,0.112596 0.18899,0.188989 0.41918,0.698638 -0.29001,-0.149905 0.28348,0.566965 0.0557,0.06957 0.12599,0.125992 0.18899,0.188987 0.063,0.063 0.11942,0.133334 0.18899,0.188989 0.0887,0.07095 0.1948,0.118041 0.28348,0.188987 0.0696,0.05565 0.11772,0.135535 0.18899,0.188989 0.0563,0.04226 0.12599,0.063 0.18899,0.09449 0.063,0.0315 0.12359,0.06834 0.18899,0.09449 0.0925,0.03699 0.18523,0.07812 0.28348,0.0945 0.0932,0.01553 0.18898,0 0.28348,0 0.0945,0 0.18899,0 0.28348,0 0.18899,0 0.37798,0 0.56697,0 0.0945,0 0.19027,0.01553 0.28348,0 0.0983,-0.01638 0.18581,-0.07496 0.28348,-0.0945 0.0618,-0.01236 0.12787,0.01527 0.18899,0 0.0683,-0.01709 0.12599,-0.063 0.18899,-0.09449 0.0945,-0.0315 0.18581,-0.07496 0.28348,-0.09449 0.12354,-0.02471 0.25574,0.03056 0.37797,0 0.61692,-0.154228 -0.35701,-0.05074 0.47247,-0.188989 0.0932,-0.01553 0.19181,0.02291 0.28349,0 0.0432,-0.0108 0.0546,-0.07457 0.0945,-0.09449 0.0891,-0.04455 0.19439,-0.04995 0.28348,-0.09449 0.0399,-0.01992 0.0547,-0.07457 0.0945,-0.0945 0.0891,-0.04454 0.191,-0.0575 0.28348,-0.09449 0.216,-0.0864 0.25062,-0.150371 0.47247,-0.283482 0.0604,-0.03624 0.13264,-0.05224 0.18899,-0.09449 0.59343,-0.445074 -0.29834,0.08451 0.47247,-0.377976 0.0604,-0.03624 0.12599,-0.063 0.18898,-0.09449 0.063,-0.063 0.11772,-0.135535 0.18899,-0.188989 0.27595,-0.206957 0.12999,0.04717 0.37798,-0.283483 0.0845,-0.112691 0.11651,-0.257185 0.18899,-0.377975 0.0584,-0.09738 0.1382,-0.181904 0.18899,-0.283483 0.0445,-0.08909 0.0499,-0.194392 0.0945,-0.283482 0.0508,-0.101578 0.13056,-0.186098 0.18899,-0.283482 0.14404,-0.240073 0.25268,-0.505353 0.37797,-0.755952 0.063,-0.125992 0.126,-0.251984 0.18899,-0.377976 0.0315,-0.063 0.0829,-0.119515 0.0945,-0.188988 0.0207,-0.124278 0,-0.251984 0,-0.377977 0,-0.188988 0,-0.377976 0,-0.566964 0,-0.220486 0,-0.440972 0,-0.661458 0,-0.125992 0.0178,-0.253251 0,-0.377976 -0.0282,-0.197209 -0.15624,-0.370464 -0.18899,-0.566965 -0.0155,-0.09321 0.0185,-0.190823 0,-0.283482 -0.0276,-0.138128 -0.15483,-0.241319 -0.18899,-0.377976 -0.0153,-0.06112 0.0153,-0.127873 0,-0.188988 -0.11408,-0.456307 -0.0449,0.0047 -0.18899,-0.283482 -0.0282,-0.05635 0.0446,-0.144443 0,-0.188988 -0.0223,-0.02227 -0.0722,0.02227 -0.0945,0 -0.0223,-0.02227 0.0141,-0.06632 0,-0.09449 -0.0199,-0.03984 -0.063,-0.063 -0.0945,-0.09449 -0.0315,-0.0315 -0.0547,-0.07457 -0.0945,-0.09449 -0.0282,-0.01409 -0.0663,0.01409 -0.0945,0 -0.0399,-0.01992 -0.0547,-0.07457 -0.0945,-0.0945 -0.0282,-0.01409 -0.063,0 -0.0945,0 -0.0315,0 -0.0722,-0.02227 -0.0945,0 -0.0223,0.02227 0.0223,0.07222 0,0.0945 -0.0445,0.04454 -0.13264,-0.02817 -0.18898,0 -0.0399,0.01992 -0.0547,0.07457 -0.0945,0.09449 -0.0563,0.02817 -0.13264,-0.02817 -0.18899,0 -0.0398,0.01992 -0.0546,0.07457 -0.0945,0.09449 -0.0282,0.01409 -0.0663,-0.01409 -0.0945,0 -0.0398,0.01992 -0.0547,0.07457 -0.0945,0.09449 -0.0282,0.01409 -0.063,0 -0.0945,0 -0.0315,0.0315 -0.0546,0.07457 -0.0945,0.09449 -0.0288,0.01438 -0.24092,0 -0.28348,0 -0.22049,0 -0.44097,0 -0.66146,0"
+       id="path4466"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -172.73517,20.793887 c -0.69294,0.377977 -1.37852,0.769768 -2.07882,1.133931 -0.10598,0.05511 -0.57892,0.175233 -0.66146,0.188988 -0.4327,0.07212 0.0986,-0.133949 -0.47246,0.09449 -0.42821,0.171284 -0.0131,0.0087 -0.28349,0.188989 -0.0586,0.03907 -0.13038,0.05542 -0.18899,0.09449 -0.0371,0.02471 -0.0574,0.06978 -0.0945,0.09449 -0.0586,0.03907 -0.13918,0.04469 -0.18899,0.09449 -0.0498,0.0498 -0.0447,0.139185 -0.0945,0.188988 -0.0498,0.0498 -0.13919,0.04469 -0.18899,0.09449 -0.0498,0.0498 -0.063,0.125992 -0.0945,0.188988 -0.0315,0.063 -0.063,0.125992 -0.0945,0.188988 -0.0315,0.063 -0.0554,0.130385 -0.0945,0.188988 -0.14416,0.216231 -0.0748,-0.05909 -0.18899,0.283482 -0.0199,0.05976 0.0282,0.132643 0,0.188988 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0141,0.02817 0,0.063 0,0.09449 0,0.03219 -0.017,0.326836 0,0.377977 0.0223,0.06682 0.0722,0.12217 0.0945,0.188988 0.01,0.02988 -0.0141,0.06632 0,0.09449 0.0199,0.03984 0.0804,0.05224 0.0945,0.09449 0.0199,0.05976 -0.0153,0.127873 0,0.188988 0.0685,0.274055 0.0737,0.110583 0.18898,0.283482 0.20819,0.04759 0.05,0.194392 0.0945,0.283482 0.0398,0.07968 0.13957,0.114861 0.18898,0.188988 0.0391,0.0586 0.0554,0.130386 0.0945,0.188988 0.0867,0.129996 0.14578,0.09718 0.28348,0.188988 0.0371,0.02471 0.0574,0.06978 0.0945,0.0945 0.0586,0.03907 0.13265,0.05223 0.18899,0.09449 0.10691,0.08018 0.17229,0.209354 0.28349,0.283483 0.28201,0.188012 0.0857,0.03605 0.37797,0.09449 0.0977,0.01953 0.191,0.0575 0.28348,0.0945 0.0654,0.02617 0.11993,0.08068 0.18899,0.09449 0.0927,0.01852 0.18899,0 0.28348,0 0.0945,0 0.18899,0 0.28349,0 0.0945,0 0.18898,0 0.28348,0 0.0945,0 0.19082,0.01852 0.28348,0 0.004,-7.94e-4 0.36491,-0.183764 0.37798,-0.188989 0.0925,-0.03699 0.191,-0.0575 0.28348,-0.09449 0.0654,-0.02617 0.12359,-0.06834 0.18899,-0.09449 0.0925,-0.03699 0.20379,-0.03473 0.28348,-0.0945 0.0563,-0.04226 0.0447,-0.139184 0.0945,-0.188986 0.0996,-0.09961 0.27837,-0.08938 0.37798,-0.188989 0.0498,-0.0498 0.0554,-0.130385 0.0945,-0.188988 0.0247,-0.03706 0.0804,-0.05223 0.0945,-0.09449 0.0144,-0.04326 0,-0.419728 0,-0.47247 0,-0.063 0,-0.125992 0,-0.188988 0,-0.063 0.0153,-0.127873 0,-0.188988 -0.0171,-0.06833 -0.0774,-0.120659 -0.0945,-0.188988 -0.0153,-0.06111 0.0153,-0.127873 0,-0.188988 -0.0342,-0.136658 -0.14444,-0.244342 -0.18899,-0.377977 -0.01,-0.02988 0.0175,-0.06829 0,-0.09449 -0.0494,-0.07413 -0.14914,-0.109303 -0.18898,-0.188988 -0.0282,-0.05635 0.0349,-0.136572 0,-0.188988 -0.0391,-0.0586 -0.13919,-0.04469 -0.18899,-0.09449 -0.0223,-0.02227 0.0175,-0.06829 0,-0.09449 -0.0494,-0.07413 -0.12599,-0.125992 -0.18899,-0.188988 -0.0315,-0.0315 -0.0746,-0.05465 -0.0945,-0.09449 -0.0141,-0.02817 0.0141,-0.06632 0,-0.09449 -0.0399,-0.07968 -0.14915,-0.109304 -0.18899,-0.188988 -0.0141,-0.02817 0.0141,-0.06632 0,-0.09449 -0.10084,-0.201688 -0.0882,0.0127 -0.18899,-0.188988 -0.0423,-0.08452 0.0423,-0.198964 0,-0.283482 -0.0141,-0.02817 -0.0722,0.02227 -0.0945,0 -0.0223,-0.02227 0.0141,-0.06632 0,-0.09449 -0.0199,-0.03984 -0.0746,-0.05465 -0.0945,-0.0945 -0.0141,-0.02817 0.0223,-0.07222 0,-0.09449 -0.0223,-0.02227 -0.0722,0.02227 -0.0945,0 -0.0445,-0.04455 0.0445,-0.144443 0,-0.188988 -0.0223,-0.02227 -0.0722,0.02227 -0.0945,0 -0.0223,-0.02227 0.0141,-0.06632 0,-0.09449 -0.0199,-0.03984 -0.0746,-0.05465 -0.0945,-0.09449 -0.0141,-0.02817 0.0223,-0.07222 0,-0.09449 -0.0223,-0.02227 -0.0663,0.01409 -0.0945,0 -0.0399,-0.01992 -0.0547,-0.07457 -0.0945,-0.09449 -0.0282,-0.01409 -0.0722,0.02227 -0.0945,0 -0.0223,-0.02227 0.0223,-0.07222 0,-0.09449 -0.0223,-0.02227 -0.063,0 -0.0945,0 -0.0315,0 -0.063,0 -0.0945,0 -0.0494,0 -0.35313,-0.01242 -0.37798,0 -0.23353,0.116767 0.0326,0.09449 -0.18898,0.09449"
+       id="path4468"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -169.23884,24.573652 c -0.28172,0.09098 0.0704,0.331606 0,0.47247 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0141,0.02817 0.0223,0.07222 0,0.09449 -0.0223,0.02227 -0.0722,-0.02227 -0.0945,0 -0.0446,0.04455 0.0282,0.132643 0,0.188988 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0297,0.05939 0.0297,0.318585 0,0.377976 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0287,0.05738 0.0287,0.509586 0,0.566963 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.0945 -0.0378,0.07559 0.0378,0.207886 0,0.283483 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0282,0.05635 0.0445,0.144444 0,0.188987 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0445,0.04454 0.0282,0.132643 0,0.188989 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0141,0.02817 0.0141,0.06632 0,0.0945 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0141,0.02817 0.0141,0.06632 0,0.09449 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0141,0.02817 0.0223,0.07222 0,0.0945 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0141,0.06632 0,0.09449 -0.0199,0.03984 -0.0746,0.05465 -0.0945,0.09449 -0.0141,0.02817 0.0223,0.07222 0,0.09449 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0223,0.07222 0,0.09449 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0223,0.07222 0,0.09449 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0141,0.06632 0,0.09449 -0.0199,0.03984 -0.063,0.063 -0.0945,0.0945 -0.0315,0.0315 -0.0546,0.07457 -0.0945,0.09449 -0.0282,0.01407 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0223,0.07222 0,0.09449 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0223,0.07222 0,0.0945 -0.0223,0.02228 -0.0722,-0.02228 -0.0945,0 -0.0223,0.02228 0.0223,0.07222 0,0.09449 -0.063,0.06299 -0.126,-0.06299 -0.18899,0 -0.0223,0.02228 0.0141,0.06632 0,0.09449 -0.0199,0.03984 -0.063,0.063 -0.0945,0.09449 -0.0315,0.0315 -0.0546,0.07457 -0.0945,0.0945 -0.0282,0.01407 -0.0663,-0.01408 -0.0945,0 -0.11339,0.05669 -0.17009,0.226785 -0.28348,0.283482 -0.0282,0.01408 -0.0663,-0.01408 -0.0945,0 -0.0399,0.01992 -0.0574,0.06978 -0.0945,0.09449 -0.68514,0.34257 0.14941,-0.09961 -0.28348,0.188987 -0.47737,0.318246 -0.002,7.94e-4 -0.28348,0.0945 -0.0668,0.02228 -0.13039,0.05542 -0.18899,0.09449 -0.0371,0.02471 -0.0522,0.08041 -0.0945,0.09449 -0.11952,0.03984 -0.25574,-0.03056 -0.37797,0 -0.0683,0.01709 -0.12217,0.07222 -0.18899,0.0945 -0.0299,0.0099 -0.0646,-0.0099 -0.0945,0 -0.0668,0.02228 -0.12066,0.07741 -0.18899,0.09449 -0.12223,0.03056 -0.25575,-0.03056 -0.37798,0 -0.0683,0.01709 -0.12066,0.07741 -0.18899,0.09449 -0.18047,0.04512 -0.30017,-0.05142 -0.47247,-0.09449 -0.0854,-0.02135 -0.4559,0 -0.56696,0 -0.0315,0 -0.0646,0.0099 -0.0945,0 -0.0668,-0.02228 -0.12216,-0.07222 -0.18898,-0.09449 -0.0299,-0.0099 -0.0663,0.01408 -0.0945,0 -0.0398,-0.01992 -0.0522,-0.08041 -0.0945,-0.0945 -0.0432,-0.01442 -0.33593,0.02104 -0.37798,0 -0.0398,-0.01992 -0.0546,-0.07457 -0.0945,-0.09449 -0.0756,-0.0378 -0.20789,0.0378 -0.28348,0 -0.0282,-0.01408 0.0282,-0.08041 0,-0.09449 -0.0563,-0.02817 -0.12923,0.01992 -0.18899,0 -0.0423,-0.01408 -0.063,-0.063 -0.0945,-0.0945 -0.063,-0.0315 -0.12217,-0.07222 -0.18898,-0.09449 -0.0299,-0.0099 -0.0646,0.0099 -0.0945,0 -0.0668,-0.02228 -0.12217,-0.07222 -0.18898,-0.09449 -0.0299,-0.0099 -0.0663,0.01408 -0.0945,0 -0.0398,-0.01992 -0.0546,-0.07457 -0.0945,-0.09449 -0.0282,-0.01408 -0.0663,0.01408 -0.0945,0 -0.0398,-0.01992 -0.0547,-0.07457 -0.0945,-0.0945 -0.0282,-0.01408 -0.0646,0.0099 -0.0945,0 -0.063,-0.0315 -0.12599,-0.06299 -0.18898,-0.09449 -0.0315,0 -0.0646,0.0099 -0.0945,0 -0.34257,-0.114189 -0.0672,-0.04483 -0.28348,-0.188989 -0.0476,-0.208185 -0.19439,-0.04995 -0.28348,-0.09449 -0.21508,-0.215082 0.0196,-0.02498 -0.18899,-0.09449 -0.25024,-0.08341 -0.31672,-0.294561 -0.56697,-0.377976 -0.0299,-0.0099 -0.063,0 -0.0945,0 -0.0315,-0.0315 -0.0547,-0.07457 -0.0945,-0.0945 -0.0282,-0.01408 -0.0663,0.01408 -0.0945,0 -0.0398,-0.01992 -0.0547,-0.07457 -0.0945,-0.09449 -0.0564,-0.02817 -0.14445,0.04454 -0.18899,0 -0.0223,-0.02228 0.0223,-0.07222 0,-0.09449 -0.0223,-0.02228 -0.0663,0.01408 -0.0945,0 -0.0251,-0.01254 -0.27094,-0.258392 -0.28349,-0.283483 -0.0141,-0.02817 0.0223,-0.07222 0,-0.09449 -0.19551,-0.195511 0.008,0.298767 -0.18898,-0.0945 -0.0282,-0.05634 0.0282,-0.132641 0,-0.188987 -0.0199,-0.03984 -0.0746,-0.05465 -0.0945,-0.09449 -0.0141,-0.02817 0.0141,-0.06632 0,-0.0945 -0.0199,-0.03984 -0.0746,-0.05465 -0.0945,-0.09449 -0.0141,-0.02817 0.0141,-0.06632 0,-0.09449 -0.0199,-0.03984 -0.0746,-0.05465 -0.0945,-0.0945 -0.0122,-0.02442 0,-0.499986 0,-0.566963 0,-0.472471 0,-0.944941 0,-1.417411 0,-0.15749 0,-0.31498 0,-0.47247 0,-0.0315 -0.0223,-0.07222 0,-0.09449 0.0223,-0.02227 0.0722,0.02227 0.0945,0 0.0223,-0.02227 -0.0223,-0.07222 0,-0.09449 0.0445,-0.04454 0.13264,0.02817 0.18899,0 0.0398,-0.01992 0.0547,-0.07457 0.0945,-0.09449 0.0564,-0.02817 0.13719,0.03586 0.18899,0 0.38846,-0.268938 0.75594,-0.56697 1.13391,-0.850455"
+       id="path4470"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(417.82808,162.54221)"
+       id="g4520-5">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-6-9"
+         d="m -206.33827,36.24653 a 2.75,2.75 0 0 0 -2.75022,2.749703 2.75,2.75 0 0 0 2.75022,2.75022 2.75,2.75 0 0 0 2.75021,-2.75022 2.75,2.75 0 0 0 -2.75021,-2.749703 z m 0.0227,1.775603 a 0.96187502,0.96187502 0 0 1 0.96222,0.962215 0.96187502,0.96187502 0 0 1 -0.96222,0.961697 0.96187502,0.96187502 0 0 1 -0.9617,-0.961697 0.96187502,0.96187502 0 0 1 0.9617,-0.962215 z"
+         style="fill:#c59d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81447315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-4"
+         d="m -206.33827,36.204154 a 2.5,2.5 0 0 0 -2.50011,2.500106 2.5,2.5 0 0 0 2.50011,2.500106 2.5,2.5 0 0 0 2.5001,-2.500106 2.5,2.5 0 0 0 -2.5001,-2.500106 z m 0,1.250053 a 1.25,1.25 0 0 1 1.25005,1.250053 1.25,1.25 0 0 1 -1.25005,1.250053 1.25,1.25 0 0 1 -1.25006,-1.250053 1.25,1.25 0 0 1 1.25006,-1.250053 z"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64952099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(417.4812,37.260067)"
+       id="g4520-5-1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-6-9-1"
+         d="m -206.33827,36.24653 a 2.75,2.75 0 0 0 -2.75022,2.749703 2.75,2.75 0 0 0 2.75022,2.75022 2.75,2.75 0 0 0 2.75021,-2.75022 2.75,2.75 0 0 0 -2.75021,-2.749703 z m 0.0227,1.775603 a 0.96187502,0.96187502 0 0 1 0.96222,0.962215 0.96187502,0.96187502 0 0 1 -0.96222,0.961697 0.96187502,0.96187502 0 0 1 -0.9617,-0.961697 0.96187502,0.96187502 0 0 1 0.9617,-0.962215 z"
+         style="fill:#c59d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81447315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-4-5"
+         d="m -206.33827,36.204154 a 2.5,2.5 0 0 0 -2.50011,2.500106 2.5,2.5 0 0 0 2.50011,2.500106 2.5,2.5 0 0 0 2.5001,-2.500106 2.5,2.5 0 0 0 -2.5001,-2.500106 z m 0,1.250053 a 1.25,1.25 0 0 1 1.25005,1.250053 1.25,1.25 0 0 1 -1.25005,1.250053 1.25,1.25 0 0 1 -1.25006,-1.250053 1.25,1.25 0 0 1 1.25006,-1.250053 z"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64952099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(353.33652,100.33568)"
+       id="g4520-5-9">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-6-9-7"
+         d="m -206.33827,36.24653 a 2.75,2.75 0 0 0 -2.75022,2.749703 2.75,2.75 0 0 0 2.75022,2.75022 2.75,2.75 0 0 0 2.75021,-2.75022 2.75,2.75 0 0 0 -2.75021,-2.749703 z m 0.0227,1.775603 a 0.96187502,0.96187502 0 0 1 0.96222,0.962215 0.96187502,0.96187502 0 0 1 -0.96222,0.961697 0.96187502,0.96187502 0 0 1 -0.9617,-0.961697 0.96187502,0.96187502 0 0 1 0.9617,-0.962215 z"
+         style="fill:#c59d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81447315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-4-7"
+         d="m -206.33827,36.204154 a 2.5,2.5 0 0 0 -2.50011,2.500106 2.5,2.5 0 0 0 2.50011,2.500106 2.5,2.5 0 0 0 2.5001,-2.500106 2.5,2.5 0 0 0 -2.5001,-2.500106 z m 0,1.250053 a 1.25,1.25 0 0 1 1.25005,1.250053 1.25,1.25 0 0 1 -1.25005,1.250053 1.25,1.25 0 0 1 -1.25006,-1.250053 1.25,1.25 0 0 1 1.25006,-1.250053 z"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64952099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(480.02227,101.40475)"
+       id="g4520-5-6">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-6-9-73"
+         d="m -206.33827,36.24653 a 2.75,2.75 0 0 0 -2.75022,2.749703 2.75,2.75 0 0 0 2.75022,2.75022 2.75,2.75 0 0 0 2.75021,-2.75022 2.75,2.75 0 0 0 -2.75021,-2.749703 z m 0.0227,1.775603 a 0.96187502,0.96187502 0 0 1 0.96222,0.962215 0.96187502,0.96187502 0 0 1 -0.96222,0.961697 0.96187502,0.96187502 0 0 1 -0.9617,-0.961697 0.96187502,0.96187502 0 0 1 0.9617,-0.962215 z"
+         style="fill:#c59d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81447315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4449-4-6"
+         d="m -206.33827,36.204154 a 2.5,2.5 0 0 0 -2.50011,2.500106 2.5,2.5 0 0 0 2.50011,2.500106 2.5,2.5 0 0 0 2.5001,-2.500106 2.5,2.5 0 0 0 -2.5001,-2.500106 z m 0,1.250053 a 1.25,1.25 0 0 1 1.25005,1.250053 1.25,1.25 0 0 1 -1.25005,1.250053 1.25,1.25 0 0 1 -1.25006,-1.250053 1.25,1.25 0 0 1 1.25006,-1.250053 z"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64952099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.05978,120.19525 a 7.4593013,7.4592691 0 0 0 -7.45949,7.45951 7.4593013,7.4592691 0 0 0 7.45949,7.4595 7.4593013,7.4592691 0 0 0 7.45898,-7.4595 7.4593013,7.4592691 0 0 0 -7.45898,-7.45951 z m 0,3.73001 a 3.7296511,3.7296344 0 0 1 3.72949,3.7295 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.7295 z"
+       id="path4520-2-6-4-3"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTR.png" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.08139793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.05978,117.19526 a 7.4593013,7.4592691 0 0 0 -7.45949,7.4595 7.4593013,7.4592691 0 0 0 7.45949,7.45949 7.4593013,7.4592691 0 0 0 7.45898,-7.45949 7.4593013,7.4592691 0 0 0 -7.45898,-7.4595 z m 0,3.73001 a 3.7296511,3.7296344 0 0 1 3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.72949,3.72949 3.7296511,3.7296344 0 0 1 -3.73,-3.72949 3.7296511,3.7296344 0 0 1 3.73,-3.72949 z"
+       id="path4520-2-6-1"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-RPTR.png" />
+    <rect
+       id="rect3713-7-2-3-1-7"
+       width="20"
+       height="20"
+       x="213.75951"
+       y="117.00897"
+       style="fill:#6b5045;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <rect
+       id="rect3713-7-2-3-5"
+       width="20"
+       height="20"
+       x="213.75951"
+       y="114.00897"
+       style="fill:#2ca089;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="5"
+       inkscape:export-filename="/mnt/storage/Documents/Travails/c++/Quarto/resources/png - 64x64/Soft v2/piece-BGPC.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+  </g>
+</svg>

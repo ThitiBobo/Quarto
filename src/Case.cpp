@@ -25,7 +25,7 @@ Pion* Case::getPion()
 void Case::removePion(Pion *p)
 {
     if (pion != NULL)
-        throw string("Erreur: La case contient déjà une autre instance de Pion");
+        throw string("Erreur: La case est vide");
     pion = p;
 }
 
