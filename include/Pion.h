@@ -18,6 +18,7 @@ class Pion
         Taille getTaille();
         Forme getForme();
         Surface getSurface();
+        bool *getAllAttributes();
 
         friend std::ostream& operator<<(std::ostream&, const Pion&);
 

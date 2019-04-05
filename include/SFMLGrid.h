@@ -10,12 +10,15 @@ class SFMLGrid
     public:
         static int distance;
 
-        SFMLGrid();
+        SFMLGrid(bool);
         virtual ~SFMLGrid();
         void draw();
         void move(sf::Vector2f*);
         void addPion(int,int,SFMLPion*);
         SFMLPion* removePion(int,int);
+        void colorCase(int,int);
+        void discolorCase(int,int);
+        int* onClick(sf::Event*);
 
         void setPosition(sf::Vector2f*);
         void setRenderWindow(sf::RenderWindow*);

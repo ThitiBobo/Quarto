@@ -33,6 +33,11 @@ Pion::Surface Pion::getSurface()
     return (Surface)this->surface;
 }
 
+bool* Pion::getAllAttributes(){
+    bool attributes[4] = {couleur,taille,forme,surface};
+    return attributes;
+}
+
 std::ostream& operator<<(std::ostream &strm, const Pion &pion){
     return strm << "Pion[Couleur = " << pion.couleur
         << ", Taille = " << pion.taille

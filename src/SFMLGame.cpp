@@ -4,6 +4,10 @@
 SFMLGame::SFMLGame()
 {
     window  = new sf::RenderWindow(sf::VideoMode(790, 410), "Quarto Game");
+    currentCoords = NULL;
+    boardCoords = NULL;
+    reserveCoords = NULL;
+
     initcomponents();
 }
 
@@ -21,9 +25,37 @@ void SFMLGame::lunch(){
             if (event.type == sf::Event::Closed)
                 window->close();
         }
+
+        if (event.type == sf::Event::MouseButtonPressed)
+        {
+            if (event.mouseButton.button == sf::Mouse::Left)
+            {
+                cout << "clic :";
+                currentCoords = reserve->onClick(&event);
+                if(currentCoords != NULL){
+                    cout << currentCoords[0] << currentCoords[1] << endl;
+                    // vérifie si c'est la meme case
+                    if(reserveCoords != NULL){
+                        if(currentCoords[0] == reserveCoords[0] && currentCoords[1] == reserveCoords[1]){
+                            reserveCoords = NULL;
+                            reserve->discolorCase(currentCoords[0],currentCoords[1]);
+                        }else{
+                            reserveCoords = new int[2];
+                            reserveCoords[0] = currentCoords[0];
+                            reserveCoords[1] = currentCoords[1];
+                            reserve->colorCase(reserveCoords[0],reserveCoords[1]);
+                        }
+                    }else{
+                            reserveCoords = new int[2];
+                            reserveCoords[0] = currentCoords[0];
+                            reserveCoords[1] = currentCoords[1];
+                            reserve->colorCase(reserveCoords[0],reserveCoords[1]);
+                        }
+                }
+
+            }
+        }
         window->clear();
-
-
         board->draw();
         reserve->draw();
         window->display();
@@ -33,12 +65,12 @@ void SFMLGame::lunch(){
 void SFMLGame::initcomponents(){
 
     //board
-    board = new SFMLGrid();
+    board = new SFMLGrid(1);
     board->setRenderWindow(window);
     board->setPosition(new sf::Vector2f(0 + 40,0 + 40));
 
     //reserve
-    reserve = new SFMLGrid();
+    reserve = new SFMLGrid(1);
     reserve->setRenderWindow(window);
     reserve->setPosition(new sf::Vector2f(332 + 80,0 + 40));
 
@@ -66,11 +98,7 @@ void SFMLGame::initcomponents(){
         for(int j = 0; j < 4; j++){
             SFMLPion* pion = new SFMLPion(number[i * 4 + j][0],number[i * 4 + j][3],number[i * 4 + j][2],number[i * 4 + j][1],1);
             pion->setRenderWindow(window);
-            board->addPion(i,j,pion);
-
-
-
-
+            reserve->addPion(i,j,pion);
         }
     }
 }

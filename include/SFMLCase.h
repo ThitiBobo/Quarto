@@ -15,6 +15,9 @@ class SFMLCase
         void move(sf::Vector2f*);
         void addPion(SFMLPion*);
         SFMLPion* removePion();
+        void color();
+        void discolor();
+        bool onClick(sf::Event*);
 
         void setPosition(sf::Vector2f*);
         void setCenterPosition(sf::Vector2f*);

@@ -1,25 +1,25 @@
-#ifndef PLATEAU_H
-#define PLATEAU_H
+#ifndef GRID_H
+#define GRID_H
 #include <ostream>
 #include "Case.h"
 #include "Pion.h"
 using namespace std;
 
-class Plateau
+class Grid
 {
     public:
-        Plateau();
-        virtual ~Plateau();
+        Grid();
+        virtual ~Grid();
         const int defaultSize = 4;
         void addPion(int, int, Pion*);
         Pion* getPion(int, int);
 
 
-        friend std::ostream& operator<<(std::ostream&, const Plateau&);
+        friend std::ostream& operator<<(std::ostream&, const Grid&);
 
     private:
-        Case plateau[4][4];
+        Case grid[4][4];
 
 };
 
-#endif // PLATEAU_H
+#endif // GRID_H

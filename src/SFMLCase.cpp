@@ -98,10 +98,36 @@ SFMLPion* SFMLCase::removePion(){
 sf::Vector2f* SFMLCase::localCenterPosition(){
     int x = texture->getSize().x;
     int y = texture->getSize().y;
-    int diff;
-    x > y ? diff = x - y : diff = y - x;
     if(x > y)
-        return new sf::Vector2f(y / 2 + diff, y / 2);
+        return new sf::Vector2f(y / 2, y / 2);
     else
-        return new sf::Vector2f(x / 2, x / 2 + diff);
+        return new sf::Vector2f(x / 2, x / 2);
+}
+
+void SFMLCase::color(){
+    sprite->setColor(sf::Color(255, 255, 0));
+}
+
+void SFMLCase::discolor(){
+    sprite->setColor(sf::Color(255, 255, 255));
+}
+
+bool SFMLCase::onClick(sf::Event* event){
+    sf::Vector2f* size = new sf::Vector2f(sprite->getTexture()->getSize());
+    // calcule pour eviter de cliquer sur le relief
+    if(size->x > size->y)
+        size->y = size->x;
+    else
+        size->x = size->y;
+
+    //vérif
+    if(event->mouseButton.x >= position->x &&
+        event->mouseButton.x <= position->x + size->x &&
+        event->mouseButton.y >= position->y &&
+        event->mouseButton.y <= position->y + size->y){
+        return true;
+    }else
+        return false;
+
+
 }

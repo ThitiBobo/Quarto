@@ -17,6 +17,11 @@ class SFMLGame
         sf::RenderWindow* window;
         SFMLGrid* board;
         SFMLGrid* reserve;
+
+        //a revoir
+        int* currentCoords;
+        int* reserveCoords;
+        int* boardCoords;
 };
 
 #endif // SFMLGAME_H
