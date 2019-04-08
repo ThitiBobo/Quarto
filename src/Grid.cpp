@@ -58,7 +58,6 @@ int** Grid::checkVictory(int x, int y){
 
     //check diagonale inversé
     if(x == 3 - y){
-        cout << "test" << endl;
         for (int i = 0; i < 4; i++){
             patern[i] = new int[2]{i,3 - i};
         }

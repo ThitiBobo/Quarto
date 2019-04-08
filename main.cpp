@@ -3,8 +3,6 @@
 
 #include <SFML/Graphics.hpp>
 
-#include <string>
-#include <vector>
 
 int main() {
 
@@ -13,6 +11,13 @@ int main() {
 
     sf::RenderWindow window(sf::VideoMode(width, height), "Quarto Game",
                             sf::Style::Titlebar | sf::Style::Close);
+
+    sf::Image icon;
+    if(!icon.loadFromFile("./images/icon.png"))
+        EXIT_FAILURE;
+
+    window.setIcon(159,170,icon.getPixelsPtr());
+
     window.setFramerateLimit(60);
 
     Game *model = new Game();
