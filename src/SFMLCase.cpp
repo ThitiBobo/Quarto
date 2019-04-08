@@ -114,11 +114,12 @@ void SFMLCase::discolor(){
 
 bool SFMLCase::onClick(sf::Event* event){
     sf::Vector2f* size = new sf::Vector2f(sprite->getTexture()->getSize());
+    int diff;
     // calcule pour eviter de cliquer sur le relief
     if(size->x > size->y)
-        size->y = size->x;
-    else
         size->x = size->y;
+    else
+        size->y = size->x;
 
     //vérif
     if(event->mouseButton.x >= position->x &&

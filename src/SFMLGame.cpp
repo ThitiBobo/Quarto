@@ -74,6 +74,11 @@ void SFMLGame::initcomponents(){
             reserve->addPion(i,j,sfmlPion);
         }
     }
+
+    //buttons
+    //restart = new Button("test");
+    //restart->setRenderWindow(window);
+    //restart->setPosition(new sf::Vector2f(0 + 40,0 + 40));
 }
 
 void SFMLGame::displayView(){

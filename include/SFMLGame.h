@@ -5,6 +5,7 @@
 #include "SFMLCase.h"
 #include "SFMLGrid.h"
 #include "Game.h"
+#include "Button.h"
 
 class SFMLGame
 {

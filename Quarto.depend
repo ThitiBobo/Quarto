@@ -1,9 +1,7 @@
 # depslib dependency file v1.0
-1554758494 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
+1554761446 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
 	"SFMLGame.h"
 	<SFML/Graphics.hpp>
-	<string>
-	<vector>
 
 1554744148 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
 	<ostream>
@@ -41,7 +39,7 @@
 	"TextureHandler.h"
 	<SFML/Graphics.hpp>
 
-1554565210 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
+1554759693 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
 	"SFMLCase.h"
 	<stdexcept>
 
@@ -62,14 +60,15 @@
 	<SFML/Graphics.hpp>
 	<ostream>
 
-1554751741 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGame.h
+1554761418 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGame.h
 	<SFML/Graphics.hpp>
 	"SFMLPion.h"
 	"SFMLCase.h"
 	"SFMLGrid.h"
 	"Game.h"
+	"Button.h"
 
-1554751865 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
+1554761488 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
 	"SFMLGame.h"
 	<iostream>
 
@@ -89,4 +88,12 @@
 1554746341 /mnt/storage/Documents/Travail/c++/Quarto/include/Game.h
 	"Grid.h"
 	"Pion.h"
+
+1554761470 /mnt/storage/Documents/Travail/c++/Quarto/include/Button.h
+	<string>
+	<SFML/Graphics.hpp>
+	"TextureHandler.h"
+
+1554761408 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Button.cpp
+	"Button.h"
 
