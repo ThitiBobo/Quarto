@@ -18,6 +18,7 @@ class SFMLGrid
         SFMLPion* removePion(int,int);
         void colorCase(int,int);
         void discolorCase(int,int);
+        void discolorAllCase();
         int* onClick(sf::Event*);
 
         void setPosition(sf::Vector2f*);

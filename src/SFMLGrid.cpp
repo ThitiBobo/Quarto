@@ -62,14 +62,14 @@ void SFMLGrid::draw(){
 }
 
 void SFMLGrid::addPion(int x,int y,SFMLPion *pion){
-    if(cases[x][y]->getPion() != NULL)
-        throw string("Erreur: La case contient déjà une autre instance de Pion");
+    //if(cases[x][y]->getPion() != NULL)
+    //    throw string("Erreur: La case contient déjà une autre instance de Pion");
     cases[x][y]->addPion(pion);
 }
 
 SFMLPion* SFMLGrid::removePion(int x,int y){
-    if(cases[x][y]->getPion() == NULL)
-        throw string("Erreur: La case est vide");
+    //if(cases[x][y]->getPion() == NULL)
+    //    throw string("Erreur: La case est vide");
     return cases[x][y]->removePion();
 }
 
@@ -79,6 +79,14 @@ void SFMLGrid::colorCase(int x, int y){
 
 void SFMLGrid::discolorCase(int x, int y){
     cases[x][y]->discolor();
+}
+
+void SFMLGrid::discolorAllCase(){
+    for(int i = 0; i < 4; i++){
+        for(int j = 0; j < 4; j++){
+            discolorCase(i,j);
+        }
+    }
 }
 
 int* SFMLGrid::onClick(sf::Event* event){

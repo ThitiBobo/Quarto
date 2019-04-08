@@ -81,15 +81,15 @@ void SFMLCase::draw(){
 }
 
 void SFMLCase::addPion(SFMLPion* pion){
-    if (this->pion != NULL)
-        throw string("Erreur: La case contient déjà une autre instance de Pion");
+    //if (this->pion != NULL)
+    //    throw string("Erreur: La case contient déjà une autre instance de Pion");
     this->pion = pion;
     pion->setCenterPosition(this->centerPosition);
 }
 
 SFMLPion* SFMLCase::removePion(){
-    if (this->pion == NULL)
-        throw string("Erreur: La case est vide");
+    //if (this->pion == NULL)
+    //    throw string("Erreur: La case est vide");
     SFMLPion *pion = this->pion;
     this->pion = NULL;
     return pion;

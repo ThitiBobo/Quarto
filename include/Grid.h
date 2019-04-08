@@ -13,6 +13,7 @@ class Grid
         const int defaultSize = 4;
         void addPion(int, int, Pion*);
         Pion* getPion(int, int);
+        Pion* removePion(int,int);
 
 
         friend std::ostream& operator<<(std::ostream&, const Grid&);

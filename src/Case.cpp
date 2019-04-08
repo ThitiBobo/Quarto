@@ -22,11 +22,13 @@ Pion* Case::getPion()
     return pion;
 }
 
-void Case::removePion(Pion *p)
+Pion* Case::removePion()
 {
-    if (pion != NULL)
-        throw string("Erreur: La case est vide");
-    pion = p;
+    if (pion == NULL)
+        throw new string("Erreur: La case est vide");
+    Pion* p = pion;
+    pion = NULL;
+    return p;
 }
 
 bool Case::isEmpty(){

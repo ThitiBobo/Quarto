@@ -4,24 +4,24 @@
 #include "SFMLPion.h"
 #include "SFMLCase.h"
 #include "SFMLGrid.h"
+#include "Game.h"
 
 class SFMLGame
 {
     public:
-        SFMLGame();
+        SFMLGame(sf::RenderWindow*,Game*);
         virtual ~SFMLGame();
-        void lunch();
+        void onClick(sf::Event *event);
+        void displayView();
 
     private:
         void initcomponents();
+        void colorePion(int,int,SFMLGrid*);
         sf::RenderWindow* window;
         SFMLGrid* board;
         SFMLGrid* reserve;
 
-        //a revoir
-        int* currentCoords;
-        int* reserveCoords;
-        int* boardCoords;
+        Game* game;
 };
 
 #endif // SFMLGAME_H

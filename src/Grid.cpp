@@ -16,6 +16,10 @@ Pion* Grid::getPion(int x, int y){
     return grid[x][y].getPion();
 }
 
+Pion* Grid::removePion(int x, int y){
+    return grid[x][y].removePion();
+}
+
 std::ostream& operator<<(std::ostream &strm, const Grid &obj){
     strm << "Plateau[";
     for (int i = 0; i < obj.defaultSize; i++){
