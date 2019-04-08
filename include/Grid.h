@@ -14,7 +14,8 @@ class Grid
         void addPion(int, int, Pion*);
         Pion* getPion(int, int);
         Pion* removePion(int,int);
-
+        int** checkVictory(int,int);
+        bool checkPatern(int**);
 
         friend std::ostream& operator<<(std::ostream&, const Grid&);
 

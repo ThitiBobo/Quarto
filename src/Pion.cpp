@@ -34,7 +34,7 @@ Pion::Surface Pion::getSurface()
 }
 
 bool* Pion::getAllAttributes(){
-    bool attributes[4] = {couleur,taille,forme,surface};
+    bool *attributes = new bool[4]{couleur,taille,forme,surface};
     return attributes;
 }
 

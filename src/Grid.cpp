@@ -1,4 +1,5 @@
 #include "Grid.h"
+#include <iostream>
 
 Grid::Grid()
 {}
@@ -28,4 +29,74 @@ std::ostream& operator<<(std::ostream &strm, const Grid &obj){
         }
     }
     return strm << "]";
+}
+
+int** Grid::checkVictory(int x, int y){
+    int** patern = new int*[4];
+
+    // check la verticale
+    for (int i = 0; i < 4; i++){
+        patern[i] = new int[2]{x,i};
+    }
+    if(checkPatern(patern))
+        return patern;
+
+    // check l'horizontale
+    for (int i = 0; i < 4; i++){
+        patern[i] = new int[2]{i,y};
+    }
+    if(checkPatern(patern))
+        return patern;
+    //check diagonale droit
+    if(x == y){
+        for (int i = 0; i < 4; i++){
+            patern[i] = new int[2]{i,i};
+        }
+        if(checkPatern(patern))
+            return patern;
+    }
+
+    //check diagonale inversé
+    if(x == 3 - y){
+        cout << "test" << endl;
+        for (int i = 0; i < 4; i++){
+            patern[i] = new int[2]{i,3 - i};
+        }
+        if(checkPatern(patern))
+            return patern;
+    }
+
+    return NULL;
+}
+
+bool Grid::checkPatern(int** patern){
+    int size = 4;
+    // check si la ligne a au moins des pièces
+    for(int i = 0; i < size; i++){
+        if(grid[patern[i][0]][patern[i][1]].getPion() == NULL)
+            return false;
+    }
+
+    // récupère les attributs des pièces
+    bool ** attributs = new bool*[size];
+    for(int i = 0; i < size; i++){
+        attributs[i] = grid[patern[i][0]][patern[i][1]].getPion()->getAllAttributes();
+    }
+
+    // vérifie TOUT
+    for(int i = 0; i < 4; i++){
+        bool flag = false;
+        int j = 1;
+        while(j < 4 && !flag){
+
+            if(attributs[j][i] != attributs[j-1][i])
+                flag = true;
+            j++;
+        }
+        // si quatre identique
+        if(!flag) return true;
+    }
+
+    return false;
+
 }

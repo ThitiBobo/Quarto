@@ -39,6 +39,7 @@ if (event->mouseButton.button == sf::Mouse::Left)
                         coords[0],
                         coords[1],
                         reserve->removePion(selectedPion[0],selectedPion[1]));
+                    victory(game->getBoard()->checkVictory(coords[0],coords[1]));
                 }catch (string *e){
                 }
 
@@ -83,6 +84,15 @@ void SFMLGame::displayView(){
 void SFMLGame::colorePion(int x, int y, SFMLGrid* grid){
     grid->discolorAllCase();
     grid->colorCase(x,y);
+}
+
+void SFMLGame::victory(int** patern){
+    if(patern == NULL)
+        return;
+    board->discolorAllCase();
+    for(int i = 0; i < 4; i++){
+        board->colorCase(patern[i][0],patern[i][1]);
+    }
 }
 
 

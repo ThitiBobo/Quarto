@@ -17,6 +17,7 @@ class SFMLGame
     private:
         void initcomponents();
         void colorePion(int,int,SFMLGrid*);
+        void victory(int**);
         sf::RenderWindow* window;
         SFMLGrid* board;
         SFMLGrid* reserve;
