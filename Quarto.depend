@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1554761446 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
+1554886237 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
 	"SFMLGame.h"
+	"Menu.h"
 	<SFML/Graphics.hpp>
 
 1554744148 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
@@ -94,6 +95,15 @@
 	<SFML/Graphics.hpp>
 	"TextureHandler.h"
 
-1554761408 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Button.cpp
+1554890017 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Button.cpp
 	"Button.h"
+	<iostream>
+
+1554890130 /mnt/storage/Documents/Travail/c++/Quarto/include/Menu.h
+	<SFML/Graphics.hpp>
+	"Button.h"
+
+1554890108 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Menu.cpp
+	"Menu.h"
+	<iostream>
 

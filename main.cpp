@@ -1,6 +1,6 @@
 // include controller
 #include "SFMLGame.h"
-
+#include "Menu.h"
 #include <SFML/Graphics.hpp>
 
 
@@ -41,7 +41,6 @@ int main() {
         }
 
         window.clear();
-
         controller->displayView();
 
         window.display();
