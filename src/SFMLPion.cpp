@@ -1,5 +1,6 @@
 #include "SFMLPion.h"
 
+// Modifie la position de la pièce
 void SFMLPion::setPosition(sf::Vector2f* position){
     this->position = position;
     sf::Vector2f* centerPosition = localCenterPosition();
@@ -10,6 +11,7 @@ void SFMLPion::setPosition(sf::Vector2f* position){
     sprite->setPosition(*position);
 }
 
+// Modifie la position de la position par rapport à son centre
 void SFMLPion::setCenterPosition(sf::Vector2f* centerPosition){
     this->centerPosition = centerPosition;
     this->position = new sf::Vector2f(*centerPosition);
@@ -19,14 +21,17 @@ void SFMLPion::setCenterPosition(sf::Vector2f* centerPosition){
     sprite->setPosition(*position);
 }
 
+// Paramètre l'instance de RenderWindow
 void SFMLPion::setRenderWindow(sf::RenderWindow* window){
     this->window = window;
 }
 
+// Obtient la taille de la pièce
 const sf::Vector2u& SFMLPion::getSize(){
     return sprite->getTexture()->getSize();
 }
 
+// Obtient la position de la pièce
 const sf::Vector2f& SFMLPion::getPosition(){
     return sprite->getPosition();
 }
@@ -36,6 +41,7 @@ sf::Vector2f* SFMLPion::getCenterPosition(){
     return this->centerPosition;
 }
 
+// construit une instance de SFMLPion avec ses attributs et son style
 SFMLPion::SFMLPion(bool color,bool dimension,bool spec,bool shape,bool soft)
 {
     !soft ? TextureHandler::setSoftV1() : TextureHandler::setSoftV2();
@@ -45,24 +51,28 @@ SFMLPion::SFMLPion(bool color,bool dimension,bool spec,bool shape,bool soft)
     setPosition(new sf::Vector2f(0,0));
 }
 
+// dtor
 SFMLPion::~SFMLPion()
 {
     delete sprite;
     delete texture;
     delete position;
     delete centerPosition;
-    delete window;
 }
 
+// Déplace la pièce par rapport à sa position actuelle
 void SFMLPion::move(sf::Vector2f* position){
     sprite->move(*position);
     setPosition(new sf::Vector2f(sprite->getPosition()));
 }
 
+// Dessine la pièce
 void SFMLPion::draw(){
     this->window->draw(*sprite);
 }
 
+// Calcule la position central de la pièce de façon
+// relatif à la pièce
 sf::Vector2f* SFMLPion::localCenterPosition(){
     int x = texture->getSize().x;
     int y = texture->getSize().y;
