@@ -14,6 +14,7 @@ class SFMLGame
         virtual ~SFMLGame();
         void onClick(sf::Event *event);
         void displayView();
+        void restart();
 
     private:
         void initcomponents();
@@ -24,6 +25,10 @@ class SFMLGame
         SFMLGrid* reserve;
 
         Game* game;
+        Button* btnRestart;
+        Button* menu;
+
+
 };
 
 #endif // SFMLGAME_H

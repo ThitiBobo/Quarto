@@ -24,7 +24,10 @@ class Button
         sf::RectangleShape *rectangle;
         sf::RenderWindow *window;
         sf::Text *sfmltext;
+        sf::Font *font;
         std::string text;
+
+        sf::Vector2f* localCenterPosition();
 };
 
 #endif // BUTTON_H

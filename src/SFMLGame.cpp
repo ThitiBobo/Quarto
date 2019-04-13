@@ -45,6 +45,12 @@ if (event->mouseButton.button == sf::Mouse::Left)
 
             }
         }
+
+
+        if(btnRestart->onClick(event)){
+            restart();
+        }
+
     }
 }
 
@@ -53,12 +59,12 @@ void SFMLGame::initcomponents(){
     //board
     board = new SFMLGrid(1);
     board->setRenderWindow(window);
-    board->setPosition(new sf::Vector2f(0 + 40,0 + 40));
+    board->setPosition(new sf::Vector2f(0 + 40,100 + 40));
 
     //reserve
     reserve = new SFMLGrid(1);
     reserve->setRenderWindow(window);
-    reserve->setPosition(new sf::Vector2f(332 + 80,0 + 40));
+    reserve->setPosition(new sf::Vector2f(332 + 80,100 + 40));
 
     //pion
     for(int i = 0; i < 4; i++){
@@ -76,14 +82,20 @@ void SFMLGame::initcomponents(){
     }
 
     //buttons
-    //restart = new Button("test");
-    //restart->setRenderWindow(window);
-    //restart->setPosition(new sf::Vector2f(0 + 40,0 + 40));
+    btnRestart = new Button("Restart");
+    btnRestart->setRenderWindow(window);
+    btnRestart->setPosition(new sf::Vector2f(0 + 590,0 + 40));
+
+    menu = new Button("Menu");
+    menu->setRenderWindow(window);
+    menu->setPosition(new sf::Vector2f(0 + 40,0 + 40));
 }
 
 void SFMLGame::displayView(){
     board->draw();
     reserve->draw();
+    btnRestart->draw();
+    menu->draw();
 }
 
 void SFMLGame::colorePion(int x, int y, SFMLGrid* grid){
@@ -99,5 +111,16 @@ void SFMLGame::victory(int** patern){
         board->colorCase(patern[i][0],patern[i][1]);
     }
 }
+
+void SFMLGame::restart(){
+    game->restart();
+    delete board;
+    delete reserve;
+    delete btnRestart;
+    delete menu;
+    initcomponents();
+}
+
+
 
 

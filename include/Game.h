@@ -15,11 +15,10 @@ class Game
         Grid* getBoard();
         int* getCoordsSelected();
         int* getCoordsPlayed();
+        void restart();
 
     private:
-
         void init();
-
         int* pionSelected;
         int* pionPlayed;
         Grid* board;

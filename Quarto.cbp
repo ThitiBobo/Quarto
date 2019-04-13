@@ -43,7 +43,6 @@
 		<Unit filename="include/Button.h" />
 		<Unit filename="include/Case.h" />
 		<Unit filename="include/Game.h" />
-		<Unit filename="include/GameListener.h" />
 		<Unit filename="include/Grid.h" />
 		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Pion.h" />

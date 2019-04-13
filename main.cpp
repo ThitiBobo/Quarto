@@ -2,12 +2,13 @@
 #include "SFMLGame.h"
 #include "Menu.h"
 #include <SFML/Graphics.hpp>
+#include <iostream>
 
 
 int main() {
 
-    constexpr int width = 800;
-    constexpr int height = 400;
+    constexpr int width = 780;
+    constexpr int height = 500;
 
     sf::RenderWindow window(sf::VideoMode(width, height), "Quarto Game",
                             sf::Style::Titlebar | sf::Style::Close);
@@ -42,7 +43,6 @@ int main() {
 
         window.clear();
         controller->displayView();
-
         window.display();
     }
 }

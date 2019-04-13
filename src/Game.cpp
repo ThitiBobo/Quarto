@@ -87,3 +87,14 @@ void Game::init(){
         }
     }
 }
+
+void Game::restart(){
+    delete board;
+    delete reserve;
+    board = new Grid();
+    reserve = new Grid();
+    pionPlayed = NULL;
+    pionSelected = NULL;
+    init();
+}
+
