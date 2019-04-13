@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1554411251 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
+1555166504 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
 	"SFMLGame.h"
+	"Menu.h"
+	<SFML/Graphics.hpp>
+	<iostream>
 
-1554389659 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
+1554901326 /mnt/storage/Documents/Travail/c++/Quarto/include/Case.h
 	<ostream>
 	"Pion.h"
 
-1554462638 /mnt/storage/Documents/Travail/c++/Quarto/include/Pion.h
+1554900545 /mnt/storage/Documents/Travail/c++/Quarto/include/Pion.h
 	<ostream>
 
 1554389659 /mnt/storage/Documents/Travail/c++/Quarto/include/Plateau.h
@@ -14,71 +17,94 @@
 	"Case.h"
 	"Pion.h"
 
-1554462882 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Case.cpp
+1554901514 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Case.cpp
 	"Case.h"
 	<stdexcept>
 
-1554462847 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Pion.cpp
+1554901195 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Pion.cpp
 	"Pion.h"
 
 1554389659 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Plateau.cpp
 	"Plateau.h"
 
-1554389659 source:/mnt/storage/Documents/Travail/c++/Quarto/src/TextureHandler.cpp
+1554903715 source:/mnt/storage/Documents/Travail/c++/Quarto/src/TextureHandler.cpp
 	"TextureHandler.h"
 
-1554389659 /mnt/storage/Documents/Travail/c++/Quarto/include/TextureHandler.h
+1554902463 /mnt/storage/Documents/Travail/c++/Quarto/include/TextureHandler.h
 	<string>
 	<SFML/Graphics.hpp>
 
-1554389659 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLPion.cpp
+1555162781 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLPion.cpp
 	"SFMLPion.h"
 
-1554389659 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLPion.h
+1555162520 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLPion.h
 	"TextureHandler.h"
 	<SFML/Graphics.hpp>
 
-1554471210 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
+1555163697 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLCase.cpp
 	"SFMLCase.h"
 	<stdexcept>
 
-1554470179 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLCase.h
+1555163299 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLCase.h
 	"TextureHandler.h"
 	"SFMLPion.h"
 	<SFML/Graphics.hpp>
 	<ostream>
 
-1554472847 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGrid.cpp
+1554565254 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGrid.cpp
 	"SFMLGrid.h"
 	<iostream>
 	<stdexcept>
 
-1554471240 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGrid.h
+1554555602 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGrid.h
 	"SFMLPion.h"
 	"SFMLCase.h"
 	<SFML/Graphics.hpp>
 	<ostream>
 
-1554471852 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGame.h
+1555171132 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGame.h
 	<SFML/Graphics.hpp>
 	"SFMLPion.h"
 	"SFMLCase.h"
 	"SFMLGrid.h"
+	"Game.h"
+	"Button.h"
 
-1554473020 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
+1555171199 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
 	"SFMLGame.h"
 	<iostream>
 
-1554463127 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Grid.cpp
+1554902004 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Grid.cpp
 	"Grid.h"
+	<iostream>
 
-1554463107 /mnt/storage/Documents/Travail/c++/Quarto/include/Grid.h
+1554900953 /mnt/storage/Documents/Travail/c++/Quarto/include/Grid.h
 	<ostream>
 	"Case.h"
 	"Pion.h"
 
-1554466297 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Game.cpp
+1555171020 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Game.cpp
 	"Game.h"
+	<iostream>
 
-1554471680 /mnt/storage/Documents/Travail/c++/Quarto/include/Game.h
+1555170904 /mnt/storage/Documents/Travail/c++/Quarto/include/Game.h
+	"Grid.h"
+	"Pion.h"
+
+1555165403 /mnt/storage/Documents/Travail/c++/Quarto/include/Button.h
+	<string>
+	<SFML/Graphics.hpp>
+	"TextureHandler.h"
+
+1555167064 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Button.cpp
+	"Button.h"
+	<iostream>
+
+1554890130 /mnt/storage/Documents/Travail/c++/Quarto/include/Menu.h
+	<SFML/Graphics.hpp>
+	"Button.h"
+
+1554890108 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Menu.cpp
+	"Menu.h"
+	<iostream>
 

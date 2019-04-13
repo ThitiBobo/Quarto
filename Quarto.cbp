@@ -40,18 +40,24 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Button.h" />
 		<Unit filename="include/Case.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/Grid.h" />
+		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Pion.h" />
-		<Unit filename="include/Plateau.h" />
 		<Unit filename="include/SFMLCase.h" />
 		<Unit filename="include/SFMLGame.h" />
 		<Unit filename="include/SFMLGrid.h" />
 		<Unit filename="include/SFMLPion.h" />
 		<Unit filename="include/TextureHandler.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Button.cpp" />
 		<Unit filename="src/Case.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Grid.cpp" />
+		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/Pion.cpp" />
-		<Unit filename="src/Plateau.cpp" />
 		<Unit filename="src/SFMLCase.cpp" />
 		<Unit filename="src/SFMLGame.cpp" />
 		<Unit filename="src/SFMLGrid.cpp" />

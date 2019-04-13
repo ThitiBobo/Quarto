@@ -1,64 +1,56 @@
 #include "SFMLGame.h"
 #include <iostream>
 
-SFMLGame::SFMLGame()
+SFMLGame::SFMLGame(sf::RenderWindow* win, Game* g)
 {
-    window  = new sf::RenderWindow(sf::VideoMode(790, 410), "Quarto Game");
-    currentCoords = NULL;
-    boardCoords = NULL;
-    reserveCoords = NULL;
-
+    window = win;
+    this->game = g;
     initcomponents();
 }
 
 SFMLGame::~SFMLGame()
 {
-    //dtor
+    delete board;
+    delete reserve;
 }
 
-void SFMLGame::lunch(){
-    while (window->isOpen())
+void SFMLGame::onClick(sf::Event *event){
+if (event->mouseButton.button == sf::Mouse::Left)
     {
-        sf::Event event;
-        while (window->pollEvent(event))
-        {
-            if (event.type == sf::Event::Closed)
-                window->close();
-        }
+        // récupére les coordonnées du clic
+        int *coords = reserve->onClick(event);
+        // sur la reserve ?
+        if(coords != NULL){
+            try{
+                game->selectPion(coords[0],coords[1]);
+                colorePion(coords[0],coords[1],reserve);
+            }catch (string *e){
+            }
 
-        if (event.type == sf::Event::MouseButtonPressed)
-        {
-            if (event.mouseButton.button == sf::Mouse::Left)
-            {
-                cout << "clic :";
-                currentCoords = reserve->onClick(&event);
-                if(currentCoords != NULL){
-                    cout << currentCoords[0] << currentCoords[1] << endl;
-                    // vérifie si c'est la meme case
-                    if(reserveCoords != NULL){
-                        if(currentCoords[0] == reserveCoords[0] && currentCoords[1] == reserveCoords[1]){
-                            reserveCoords = NULL;
-                            reserve->discolorCase(currentCoords[0],currentCoords[1]);
-                        }else{
-                            reserveCoords = new int[2];
-                            reserveCoords[0] = currentCoords[0];
-                            reserveCoords[1] = currentCoords[1];
-                            reserve->colorCase(reserveCoords[0],reserveCoords[1]);
-                        }
-                    }else{
-                            reserveCoords = new int[2];
-                            reserveCoords[0] = currentCoords[0];
-                            reserveCoords[1] = currentCoords[1];
-                            reserve->colorCase(reserveCoords[0],reserveCoords[1]);
-                        }
+        }
+        else{
+            coords = board->onClick(event);
+            if(coords != NULL){
+                try{
+                    int * selectedPion = game->getCoordsSelected();
+                    game->playPion(coords[0],coords[1]);
+                    colorePion(coords[0],coords[1],board);
+                    board->addPion(
+                        coords[0],
+                        coords[1],
+                        reserve->removePion(selectedPion[0],selectedPion[1]));
+                    victory(game->getBoard()->checkVictory(coords[0],coords[1]));
+                }catch (string *e){
                 }
 
             }
         }
-        window->clear();
-        board->draw();
-        reserve->draw();
-        window->display();
+
+
+        if(btnRestart->onClick(event)){
+            restart();
+        }
+
     }
 }
 
@@ -67,40 +59,68 @@ void SFMLGame::initcomponents(){
     //board
     board = new SFMLGrid(1);
     board->setRenderWindow(window);
-    board->setPosition(new sf::Vector2f(0 + 40,0 + 40));
+    board->setPosition(new sf::Vector2f(0 + 40,100 + 40));
 
     //reserve
     reserve = new SFMLGrid(1);
     reserve->setRenderWindow(window);
-    reserve->setPosition(new sf::Vector2f(332 + 80,0 + 40));
+    reserve->setPosition(new sf::Vector2f(332 + 80,100 + 40));
 
     //pion
-    int number[16][4] ={
-        {0,0,0,0},
-        {0,0,0,1},
-        {0,0,1,0},
-        {0,0,1,1},
-        {0,1,0,0},
-        {0,1,0,1},
-        {0,1,1,0},
-        {0,1,1,1},
-        {1,0,0,0},
-        {1,0,0,1},
-        {1,0,1,0},
-        {1,0,1,1},
-        {1,1,0,0},
-        {1,1,0,1},
-        {1,1,1,0},
-        {1,1,1,1}
-         };
-
     for(int i = 0; i < 4; i++){
         for(int j = 0; j < 4; j++){
-            SFMLPion* pion = new SFMLPion(number[i * 4 + j][0],number[i * 4 + j][3],number[i * 4 + j][2],number[i * 4 + j][1],1);
-            pion->setRenderWindow(window);
-            reserve->addPion(i,j,pion);
+            Pion* pion = game->getReserve()->getPion(i,j);
+            SFMLPion* sfmlPion = new SFMLPion(
+                pion->getCouleur(),
+                pion->getTaille(),
+                pion->getSurface(),
+                pion->getForme(),
+                1);
+            sfmlPion->setRenderWindow(window);
+            reserve->addPion(i,j,sfmlPion);
         }
     }
+
+    //buttons
+    btnRestart = new Button("Restart");
+    btnRestart->setRenderWindow(window);
+    btnRestart->setPosition(new sf::Vector2f(0 + 590,0 + 40));
+
+    menu = new Button("Menu");
+    menu->setRenderWindow(window);
+    menu->setPosition(new sf::Vector2f(0 + 40,0 + 40));
 }
+
+void SFMLGame::displayView(){
+    board->draw();
+    reserve->draw();
+    btnRestart->draw();
+    menu->draw();
+}
+
+void SFMLGame::colorePion(int x, int y, SFMLGrid* grid){
+    grid->discolorAllCase();
+    grid->colorCase(x,y);
+}
+
+void SFMLGame::victory(int** patern){
+    if(patern == NULL)
+        return;
+    board->discolorAllCase();
+    for(int i = 0; i < 4; i++){
+        board->colorCase(patern[i][0],patern[i][1]);
+    }
+}
+
+void SFMLGame::restart(){
+    game->restart();
+    delete board;
+    delete reserve;
+    delete btnRestart;
+    delete menu;
+    initcomponents();
+}
+
+
 
 
