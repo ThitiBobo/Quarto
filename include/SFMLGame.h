@@ -12,7 +12,7 @@ class SFMLGame
     public:
         SFMLGame(sf::RenderWindow*,Game*);
         virtual ~SFMLGame();
-        void onClick(sf::Event *event);
+        bool onClick(sf::Event *event);
         void displayView();
         void restart();
 
@@ -20,6 +20,7 @@ class SFMLGame
         void initcomponents();
         void colorePion(int,int,SFMLGrid*);
         void victory(int**);
+        void playIA();
         sf::RenderWindow* window;
         SFMLGrid* board;
         SFMLGrid* reserve;
@@ -27,6 +28,7 @@ class SFMLGame
         Game* game;
         Button* btnRestart;
         Button* menu;
+        bool joueurPlayed;
 
 
 };

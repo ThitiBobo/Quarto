@@ -46,6 +46,7 @@
 		<Unit filename="include/Grid.h" />
 		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Pion.h" />
+		<Unit filename="include/IA.h" />
 		<Unit filename="include/SFMLCase.h" />
 		<Unit filename="include/SFMLGame.h" />
 		<Unit filename="include/SFMLGrid.h" />
@@ -58,6 +59,7 @@
 		<Unit filename="src/Grid.cpp" />
 		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/Pion.cpp" />
+		<Unit filename="src/IA.cpp" />
 		<Unit filename="src/SFMLCase.cpp" />
 		<Unit filename="src/SFMLGame.cpp" />
 		<Unit filename="src/SFMLGrid.cpp" />

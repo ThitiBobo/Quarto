@@ -4,6 +4,33 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
+void jouer(sf::RenderWindow* window, Game* model){
+
+    SFMLGame *controller = new SFMLGame(window,model);
+
+    while (window->isOpen()) {
+        sf::Event event;
+        while (window->pollEvent(event)) {
+            switch (event.type) {
+                case sf::Event::Closed:
+                    window->close();
+                    break;
+
+                case sf::Event::MouseButtonPressed:
+                    if(controller->onClick(&event))
+                        return;
+                    break;
+
+                default:
+                    break;
+            }
+        }
+
+        window->clear();
+        controller->displayView();
+        window->display();
+    }
+}
 
 int main() {
 
@@ -20,9 +47,7 @@ int main() {
     window.setIcon(159,170,icon.getPixelsPtr());
 
     window.setFramerateLimit(60);
-
-    Game *model = new Game();
-    SFMLGame *controller = new SFMLGame(&window,model);
+    Menu *menu = new Menu(&window);
 
     while (window.isOpen()) {
         sf::Event event;
@@ -33,16 +58,22 @@ int main() {
                     break;
 
                 case sf::Event::MouseButtonPressed:
-                    controller->onClick(&event);
+                    switch(menu->onClick(&event)){
+                        case 1:
+                        jouer(&window,new Game(0));
+                        break;
+                        case 2:
+                        jouer(&window,new Game(1));
+                        break;
+                    }
                     break;
 
                 default:
                     break;
             }
         }
-
         window.clear();
-        controller->displayView();
+        menu->displayView();
         window.display();
     }
 }

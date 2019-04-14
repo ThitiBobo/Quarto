@@ -12,17 +12,31 @@ Menu::~Menu()
     //dtor
 }
 
-bool Menu::onClick(sf::Event *event){
-    return start->onClick(event);
+int Menu::onClick(sf::Event *event){
+    if(joueur->onClick(event))
+        return 1;
+    if(ordi->onClick(event))
+        return 2;
+    if(quitter->onClick(event))
+        window->close();
 }
 
 void Menu::initcomponents(){
-    start = new Button("Start");
-    start->setRenderWindow(window);
-    start->setPosition(new sf::Vector2f(50,50));
+    joueur = new Button("P vs P");
+    joueur->setRenderWindow(window);
+    joueur->setPosition(new sf::Vector2f(390 - 70,0 + 140));
+
+    ordi = new Button("P vs IA");
+    ordi->setRenderWindow(window);
+    ordi->setPosition(new sf::Vector2f(390 - 70,70 + 140));
+
+    quitter = new Button("quitter");
+    quitter->setRenderWindow(window);
+    quitter->setPosition(new sf::Vector2f(390 - 70,140 + 140));
 }
 
 void Menu::displayView(){
-    std::cout << "draw" << std::endl;
-    start->draw();
+    joueur->draw();
+    ordi->draw();
+    quitter->draw();
 }

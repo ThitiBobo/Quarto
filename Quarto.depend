@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1555166504 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
+1555258730 source:/mnt/storage/Documents/Travail/c++/Quarto/main.cpp
 	"SFMLGame.h"
 	"Menu.h"
 	<SFML/Graphics.hpp>
@@ -62,7 +62,7 @@
 	<SFML/Graphics.hpp>
 	<ostream>
 
-1555171132 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGame.h
+1555258391 /mnt/storage/Documents/Travail/c++/Quarto/include/SFMLGame.h
 	<SFML/Graphics.hpp>
 	"SFMLPion.h"
 	"SFMLCase.h"
@@ -70,7 +70,7 @@
 	"Game.h"
 	"Button.h"
 
-1555171199 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
+1555260958 source:/mnt/storage/Documents/Travail/c++/Quarto/src/SFMLGame.cpp
 	"SFMLGame.h"
 	<iostream>
 
@@ -83,13 +83,18 @@
 	"Case.h"
 	"Pion.h"
 
-1555171020 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Game.cpp
+1555263403 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Game.cpp
 	"Game.h"
 	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
 
-1555170904 /mnt/storage/Documents/Travail/c++/Quarto/include/Game.h
+1555259486 /mnt/storage/Documents/Travail/c++/Quarto/include/Game.h
 	"Grid.h"
 	"Pion.h"
+	"IA.h"
 
 1555165403 /mnt/storage/Documents/Travail/c++/Quarto/include/Button.h
 	<string>
@@ -100,11 +105,18 @@
 	"Button.h"
 	<iostream>
 
-1554890130 /mnt/storage/Documents/Travail/c++/Quarto/include/Menu.h
+1555248447 /mnt/storage/Documents/Travail/c++/Quarto/include/Menu.h
 	<SFML/Graphics.hpp>
 	"Button.h"
 
-1554890108 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Menu.cpp
+1555248440 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Menu.cpp
 	"Menu.h"
 	<iostream>
+
+1555263540 source:/mnt/storage/Documents/Travail/c++/Quarto/src/IA.cpp
+	"IA.h"
+	<iostream>
+
+1555255319 /mnt/storage/Documents/Travail/c++/Quarto/include/IA.h
+	<Grid.h>
 

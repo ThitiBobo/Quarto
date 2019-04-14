@@ -6,6 +6,7 @@ SFMLGame::SFMLGame(sf::RenderWindow* win, Game* g)
     window = win;
     this->game = g;
     initcomponents();
+    joueurPlayed = false;
 }
 
 SFMLGame::~SFMLGame()
@@ -14,7 +15,7 @@ SFMLGame::~SFMLGame()
     delete reserve;
 }
 
-void SFMLGame::onClick(sf::Event *event){
+bool SFMLGame::onClick(sf::Event *event){
 if (event->mouseButton.button == sf::Mouse::Left)
     {
         // récupére les coordonnées du clic
@@ -24,6 +25,7 @@ if (event->mouseButton.button == sf::Mouse::Left)
             try{
                 game->selectPion(coords[0],coords[1]);
                 colorePion(coords[0],coords[1],reserve);
+                joueurPlayed = true;
             }catch (string *e){
             }
 
@@ -31,26 +33,40 @@ if (event->mouseButton.button == sf::Mouse::Left)
         else{
             coords = board->onClick(event);
             if(coords != NULL){
-                try{
-                    int * selectedPion = game->getCoordsSelected();
-                    game->playPion(coords[0],coords[1]);
-                    colorePion(coords[0],coords[1],board);
-                    board->addPion(
-                        coords[0],
-                        coords[1],
-                        reserve->removePion(selectedPion[0],selectedPion[1]));
-                    victory(game->getBoard()->checkVictory(coords[0],coords[1]));
-                }catch (string *e){
+                if(!game->isFinish()){
+                    try{
+                        int * selectedPion = game->getCoordsSelected();
+                        game->playPion(coords[0],coords[1]);
+                        colorePion(coords[0],coords[1],board);
+                        board->addPion(
+                            coords[0],
+                            coords[1],
+                            reserve->removePion(selectedPion[0],selectedPion[1]));
+                        victory(game->getBoard()->checkVictory(coords[0],coords[1]));
+                    }catch (string *e){
+                    }
                 }
 
             }
         }
+
+        if(game->getIA()){
+            if(joueurPlayed){
+                if(!game->isFinish())
+                    playIA();
+            }
+        }
+
 
 
         if(btnRestart->onClick(event)){
             restart();
         }
 
+        if(menu->onClick(event)){
+            return true;
+        }
+        return false;
     }
 }
 
@@ -119,6 +135,23 @@ void SFMLGame::restart(){
     delete btnRestart;
     delete menu;
     initcomponents();
+}
+
+void SFMLGame::playIA(){
+    int* selectedPion = game->getCoordsSelected();
+    int* playedpion = game->playPionIA();
+    colorePion(playedpion[0],playedpion[1],board);
+    board->addPion(
+        playedpion[0],
+        playedpion[1],
+        reserve->removePion(selectedPion[0],selectedPion[1]));
+    victory(game->getBoard()->checkVictory(playedpion[0],playedpion[1]));
+
+    if(game->isFinish())
+        return;
+    int* coords = game->selectPieceIA();
+    colorePion(coords[0],coords[1],reserve);
+    joueurPlayed = false;
 }
 
 

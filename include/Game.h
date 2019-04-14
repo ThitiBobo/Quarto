@@ -2,11 +2,12 @@
 #define GAME_H
 #include "Grid.h"
 #include "Pion.h"
+#include "IA.h"
 
 class Game
 {
     public:
-        Game();
+        Game(bool);
         virtual ~Game();
         void selectPion(int,int);
         void playPion(int,int);
@@ -17,15 +18,19 @@ class Game
         int* getCoordsPlayed();
         void restart();
 
+        bool getIA();
+        int* playPionIA();
+        int* selectPieceIA();
+
     private:
         void init();
         int* pionSelected;
         int* pionPlayed;
         Grid* board;
         Grid* reserve;
-
-
-
+        IA* intelligence;
+        bool ia;
+        int tour;
 };
 
 #endif // GAME_H

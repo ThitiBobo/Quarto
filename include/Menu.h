@@ -8,14 +8,16 @@ class Menu
     public:
         Menu(sf::RenderWindow*);
         virtual ~Menu();
-        bool onClick(sf::Event *event);
+        int onClick(sf::Event *event);
         void displayView();
 
     private:
         void initcomponents();
 
         sf::RenderWindow *window;
-        Button* start;
+        Button* joueur;
+        Button* ordi;
+        Button* quitter;
 
 };
 
