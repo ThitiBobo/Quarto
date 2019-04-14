@@ -83,7 +83,7 @@
 	"Case.h"
 	"Pion.h"
 
-1555263403 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Game.cpp
+1555269408 source:/mnt/storage/Documents/Travail/c++/Quarto/src/Game.cpp
 	"Game.h"
 	<iostream>
 	<stdio.h>
@@ -113,10 +113,10 @@
 	"Menu.h"
 	<iostream>
 
-1555263540 source:/mnt/storage/Documents/Travail/c++/Quarto/src/IA.cpp
+1555270199 source:/mnt/storage/Documents/Travail/c++/Quarto/src/IA.cpp
 	"IA.h"
 	<iostream>
 
-1555255319 /mnt/storage/Documents/Travail/c++/Quarto/include/IA.h
+1555268613 /mnt/storage/Documents/Travail/c++/Quarto/include/IA.h
 	<Grid.h>
 

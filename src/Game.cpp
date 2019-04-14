@@ -130,14 +130,14 @@ int* Game::playPionIA(){
 
 int* Game::selectPieceIA(){
 
-    int x;
+    /*int x;
     int y;
     do{
         x = rand()%4;
         y = rand()%4;
-    }while(reserve->getPion(x,y) == NULL);
-    //int x = intelligence->getSelect()[0];
-    //int y = intelligence->getSelect()[1];
+    }while(reserve->getPion(x,y) == NULL);*/
+    int x = intelligence->getSelect()[0];
+    int y = intelligence->getSelect()[1];
     pionSelected = new int[2]{x,y};
     return new int[2]{x,y};
 }

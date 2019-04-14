@@ -18,8 +18,8 @@ class IA
         int dificult;
         int profondeur;
 
-        int calcul(Grid*,Grid*,int,int);
-        int* decisionMinMax(Grid*,Grid*,int,int);
+        int calcul(Grid*,Grid*,int,int,bool);
+        void decisionMinMax(Grid*,Grid*,int,int);
         int valeurMinMax(Grid*,Grid*,bool,int,int,int);
 };
 
